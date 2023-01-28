@@ -1,5 +1,4 @@
-#EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
-
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/c34f2db16254f844f9fe1132c3dccbed.webp" tvg-group="PELÍCULAS", Absolutamente Todo 2015
 https://www.googleapis.com/drive/v3/files/1-aKwn-X-Ro0lRXVPdXhxHA1CtpWX6zUD?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 
