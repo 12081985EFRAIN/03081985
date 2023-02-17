@@ -1,5 +1,20 @@
 #EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/jrPKVQGjc3YZXm07OYMriIB47HM.webp" tvg-group="PELÍCULAS",Detective Knight: Independence
+http://51.81.208.167/pelis2023/Detective.Knight.Independence.2023.lati.mp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/oKovzRJWz4brwxogYH8vaIoMOeU.webp" tvg-group="PELÍCULAS",House Party:Fiesta en casa
+http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/zYnp9vNPdJiCU0SIisWdA3VIGNB.webp" tvg-group="PELÍCULAS",JUNG_E
+http://51.81.208.167/pelis2023/Jung.E.2023.lati.mp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/3whQLi8RI7h2h2Si2KTDFJxfEcR.webp" tvg-group="PELÍCULAS",Legión de superhéroes
+http://51.81.208.167/pelis2023/Legion.of.Super.Heroes.2023.lati.mp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ew3V5fhAFD1SaKwIvosWOvlz6hi.webp" tvg-group="PELÍCULAS",Teen Wolf: La Película
+http://51.81.208.167/pelis2023/Teen.Wolf.The.Movie.2023.lati.mp4
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/eOixT71Ok77ZiBu06lO0Z6FysKi.webp" tvg-group="PELÍCULAS",Transfusión
+http://51.81.208.167/pelis2023/Transfusion.2023.lati.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c0dfDXSu6esHRdE6mx2SzehvaDv.jpg" tvg-group="PELÍCULAS",Ustedes Gente
+http://51.81.208.167/pelis2023/You.People.2023.lati.mp4
+
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/c34f2db16254f844f9fe1132c3dccbed.webp" tvg-group="PELÍCULAS", Absolutamente Todo 2015
 https://www.googleapis.com/drive/v3/files/1-aKwn-X-Ro0lRXVPdXhxHA1CtpWX6zUD?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/snCDylJCTmzyz4fmxkm5MsgjKyJ.jpg" tvg-group="INFANTIL", Agencia secreta de control mágico Netflix 2021
@@ -34,10 +49,6 @@ https://archive.org/download/01_20220505_20220505_2119/01.mp4
 https://archive.org/download/01_20210518_20210518_1404/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/itgvn1ABuqeV08i9GWHNyktXXNJ.jpg" tvg-group="PELÍCULAS", Armadas y Peligrosas
 https://archive.org/download/10_20210221/05.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/60Jge3rxgiqzpehuGcuITJveO44.jpg" tvg-group="PELÍCULAS", Aulas Peligrosas, la facultad (1998)
-https://www.dropbox.com/s/wgk0jr5ifa4hvi2/facultad%20-%20aulas%20peligrosas%201998.mp4?dl=1
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/br6krBFpaYmCSglLBWRuhui7tPc.jpg" tvg-group="PELÍCULAS", Avengers Endgame
-https://archive.org/download/01_20211124_20211124_1511/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/71wSx6MQm8EbMNDi3vVaD8nD9SL.jpg" tvg-group="PELÍCULAS", Avengers Era de Ultron
 https://archive.org/download/01_20211124_20211124_1442/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" tvg-group="PELÍCULAS", Avengers Infinity War
@@ -54,8 +65,6 @@ https://archive.org/download/10_20210221/06.mp4
 https://archive.org/download/01_20211011_20211011_2322/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/eQyi0oEk0WtkiWJxPi58M53Crzv.jpg" tvg-group="PELÍCULAS", Barrenderos espaciales Netflix 2021
 https://archive.org/download/8rr-3hd-3r-05.35pc-135/8%40rr3hd3r05.35p%40c%40135.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/mS3t9puIjLKgoex82cu9d6G0835.jpg" tvg-group="PELÍCULAS", Batman vs Superman El Origen de la Justicia
-https://archive.org/download/01_20220505_20220505_2008/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/y9lB7wV0TGsuKsDj3JrlgegyIdh.jpg" tvg-group="INFANTIL", Beethoven Aventura de navidad
 https://archive.org/download/01_20211222_20211222_0513/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/bDQ95W5LPHW9FHlPj3QX3jvM9Z7.jpg" tvg-group="PELÍCULAS", Billie Eilish El mundo está un poco borroso
@@ -70,10 +79,6 @@ https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%2
 https://archive.org/download/01_20211011_20211011_2327/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg" tvg-group="PELÍCULAS", Abejorro
 https://archive.org/download/01_20210707_20210707_1403/01.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/qhWkxLGzc5J7j3neP0I3XYTdMWT.jpg" tvg-group="PELÍCULAS", Cacería Jurásica 2021
-https://archive.org/download/01_20210928_20210928_0041/01.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/40FuQAiHjCvh9fYFigGAVWJ6Czu.jpg" tvg-group="PELÍCULAS", Candyman 2021
-https://archive.org/download/01_20210928_20210928_0050/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/gR2o0LBWq32oGdIVqeIloO3KDxY.jpg" tvg-group="INFANTIL", Canto 2: ¡Ven y Canta de Nuevo!
 https://archive.org/download/01_20220112_20220112_1623/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/a0R1Ybj3m4M4ZeztizD7F6fmPCE.jpg" tvg-group="PELÍCULAS", Caos: El Inicio 2021
@@ -112,8 +117,6 @@ https://archive.org/download/01_20220219_202202/01.mp4
 https://archive.org/download/01_20211110_20211110_1547/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/fvqIv59EgwY7lJ5QfqSWpCxOFxK.jpg" tvg-group="PELÍCULAS", Despierta la furia 2021
 https://archive.org/download/01_20210527_20210527_1617/01.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/vThe85YlGE5r7fqEVFePETqnWzk.jpg" tvg-group="PELÍCULAS", Doctor Strange en el Multiverso de la Locura 2022
-
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" tvg-group="PELÍCULAS", Doctor Strange: hechicero supremo
 https://archive.org/download/01_20210719_20210719_1914/01.mp4
 #EXTINF:-1 tvg-logo="https://saucedo.files.wordpress.com/2015/01/freebirds_00.jpg" tvg-group="INFANTIL", Dos Pavos en apuros
@@ -220,8 +223,6 @@ https://archive.org/download/10_20210221/03.mp4
 https://archive.org/download/14_20210221_202102/15.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/yZP6of0dk5eWn3gMGPVxrR9Lq0R.jpg" tvg-group="PELÍCULAS", Cazafantasmas: El Legado
 https://archive.org/download/01_20220112_20220112_1546/01.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/yJTk4eqQd9Yo5REpFbTSOMkbSgn.jpg" tvg-group="PELÍCULAS", Godzilla vs Kong 2021
-https://archive.org/download/02_20210329_20210329_2215/02.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/fjz7yOtEaRFumJK2NMpdkazLHwV.jpg" tvg-group="PELÍCULAS", Oro 2022
 https://archive.org/download/01_20220415_20220415_1747/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/sDLMU7Hdb8GI4mN3JHtPfIs4wD6.jpg" tvg-group="PELÍCULAS", Grandes esperanzas 2020
@@ -5697,10 +5698,9 @@ http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/148225.mp4
 http://latinanplad.com:8080/movie/Tete/Tete/148225.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",La Maldición del Monstruo del Lago (Lat)
 http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2281.mp4
+
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/20cf9049999c688fa1fc1771463fc9de.webp" tvg-group="PELÍCULAS",47 Ronin: La leyenda del Samurai
 http://bit.ly/3dgy05V
-
-
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/bzp/01/25449.jpg" tvg-group="PELÍCULAS",10 cosas que odio de tí
 https://bit.ly/3muGWKo
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/520180fdc2d0edef3c7e65ef463b36b8.webp" tvg-group="PELÍCULAS",50 Sombras de Grey
