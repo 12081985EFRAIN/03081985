@@ -1,5 +1,17 @@
 #EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nkOCmeeUq6M/V02rg1f733I/AAAAAAAAAD0/PJrVLc8oexcxX9fv57Dlum53F_liOjbZgCLcB/s1600/Vol1.jpeg" tvg-group="INFANTIL",Fabulas Disney VOL1
+https://www.googleapis.com/drive/v3/files/1PVMHscmSLfuHsrN1lzNqSlN4KLvz-7ln?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ly_w5FgU6hE/V02uByU3MWI/AAAAAAAAAEA/bMLFsg9LneQWiLUVrgpROsWK5NWJLy5bQCLcB/s1600/Vol2.jpeg" tvg-group="INFANTIL",Fabulas Disney VOL2
+https://www.googleapis.com/drive/v3/files/1M58NSDGCsE7O3OhnUeMj7EijHG5aSZUa?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kRtlDAzkY9g/V02vZUgIgNI/AAAAAAAAAEM/fQm251YkWP4f_uD4cNh0HqFjhlin7L9rgCLcB/s1600/Vol3.jpeg" tvg-group="INFANTIL",Fabulas Disney VOL3
+https://www.googleapis.com/drive/v3/files/1bKqpAk0IMs3aPWG4uiMznLYgan7vbq75?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-WHPYX82m-Jk/V02wuju2uyI/AAAAAAAAAEY/3VWbBC-B_oIWTAhb76Kc2HVubOqpCDJEgCLcB/s1600/Vol4.jpg" tvg-group="INFANTIL",Fabulas Disney VOL4
+https://www.googleapis.com/drive/v3/files/1hA6e4rolZ-K4GJa2Xrthz53MEmxjFGBv?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ha6P2SOw6Ck/V02ydfsgvcI/AAAAAAAAAEk/NT4jRICf0SgIZnv4wAgOqmM6t-sH1JQ_ACLcB/s1600/Vol5.jpg" tvg-group="INFANTIL",Fabulas Disney VOL5
+https://www.googleapis.com/drive/v3/files/1JHFoFne0A-mdjB5UCwv8O59WdleW6hYb?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BtiY5a5bNzY/V02zhVPhMZI/AAAAAAAAAEw/X1_GivYt2CwM8zfVi4r387tdJ7yckawkgCLcB/s1600/Vol6.jpg" tvg-group="INFANTIL",Fabulas Disney VOL6
+https://www.googleapis.com/drive/v3/files/1uaq4QTObCEQmv-WxHEbZP8WoLEfhBDD5?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/6aQfiKqi19Orx4fhoICSib58xzx.webp" tvg-group="INFANTIL",El Gato con botas el ultimo deceo
 https://www.googleapis.com/drive/v3/files/1UzlC3N7Ufu1a8RYf1xxfzL8VtgRmnL36?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/jrPKVQGjc3YZXm07OYMriIB47HM.webp" tvg-group="PELÍCULAS",Detective Knight: Independence
