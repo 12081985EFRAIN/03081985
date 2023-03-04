@@ -1,5 +1,17 @@
 #EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/9e25f0f2f20271920ad0ed4d54729df0.webp" tvg-group="PELÍCULAS",Dios No Está Muerto
+https://www.googleapis.com/drive/v3/files/1Zb08nIpbfgm9_ycZL4F1_iW2so0OAc_x?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/4/w1280/VPJGWbHC4OR0SP4YDsMNg6kWBJ.jpg" tvg-group="PELÍCULAS",Dios no esta muerta 2 (2016)
+http://vod.tuxchannel.mx/peliculas/720/gods%20not%20dead%202.mkv
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/d307298c6ad8bb841658c743096c1504.webp" tvg-group="PELÍCULAS",Dios No Está Muerto 3
+https://www.googleapis.com/drive/v3/files/1WfbzU0PpqvQ-Wn2MWWxrB8TczEM2ruww?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/uploads/2023/02/LLAMAN-A-LA-PUERTA-4K.jpg" tvg-group="PELÍCULAS",Llaman a la Puerta
+https://www.googleapis.com/drive/v3/files/1LtqbZqp45ub23z5gd1NqRoZHok6AEYiZ?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+#EXTINF:-1 tvg-logo="https://cinecalidad.run/wp-content/uploads/2023/01/ALERTA-EXTREMA-4K.jpg" tvg-group="PELÍCULAS",Alerta Extrema
+https://www.googleapis.com/drive/v3/files/1qPsbU0wvq1miJe_iWurQZtyakBdiLfbh?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/8/w1280/ltVbyAXDVXLrfkYCZLzM9GPSoA2.jpg" tvg-group="PELÍCULAS",El remanente (2014)
+https://archive.org/download/the.-remaining.-2014.bluray-latino-e-ingles-subt_202101/The.Remaining.2014.bluray-latino-e-ingles-subt.mp4
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-nkOCmeeUq6M/V02rg1f733I/AAAAAAAAAD0/PJrVLc8oexcxX9fv57Dlum53F_liOjbZgCLcB/s1600/Vol1.jpeg" tvg-group="INFANTIL",Fabulas Disney VOL1
 https://www.googleapis.com/drive/v3/files/1PVMHscmSLfuHsrN1lzNqSlN4KLvz-7ln?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Ly_w5FgU6hE/V02uByU3MWI/AAAAAAAAAEA/bMLFsg9LneQWiLUVrgpROsWK5NWJLy5bQCLcB/s1600/Vol2.jpeg" tvg-group="INFANTIL",Fabulas Disney VOL2
@@ -60,8 +72,6 @@ https://ia801400.us.archive.org/6/items/02_20210719_20210719_1751/01.mp4
 https://archive.org/download/01_20220505_20220505_2119/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/tu6kz9Ejm7wljiO58waAuwn1miV.jpg" tvg-group="PELÍCULAS", Aquellos que desean mi muerte 2021
 https://archive.org/download/01_20210518_20210518_1404/01.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/itgvn1ABuqeV08i9GWHNyktXXNJ.jpg" tvg-group="PELÍCULAS", Armadas y Peligrosas
-https://archive.org/download/10_20210221/05.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/71wSx6MQm8EbMNDi3vVaD8nD9SL.jpg" tvg-group="PELÍCULAS", Avengers Era de Ultron
 https://archive.org/download/01_20211124_20211124_1442/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg" tvg-group="PELÍCULAS", Avengers Infinity War
@@ -692,11 +702,21 @@ http://regioplay.xyz/701023/365.Days.Part.III.2022.lati.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/520180fdc2d0edef3c7e65ef463b36b8.webp"tvg-group="PELÍCULAS",Cincuenta sombras de Grey 2015
 https://ia800305.us.archive.org/2/items/50SombrasDeGrey_201505/50%20Sombras%20De%20Grey.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/612ab53823208d1f2f738b3ec63f2ba6.webp"tvg-group="PELÍCULAS",Cincuenta Sombras Muy Oscuras 2016
-
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/608dce0181499af4c27a26a1e408ae4b.webp"tvg-group="PELÍCULAS",Cincuenta Sombras Más Oscuras 2017
-
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ce06837c5eef0f78bbd08441b8511cd7.webp"tvg-group="PELÍCULAS",Cincuenta Sombras Liberadas 2018
-
+https://www.googleapis.com/drive/v3/files/1AVYSBiJhUm7hRWblreARUA2uqYAf6cvo?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/2/w1280/jvBAQOg2ObZKYXZGxYSz3Fkr7Qt.jpg" tvg-group="PELÍCULAS",50 sombras mas oscuras 2017
+http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/Cincuenta%20Sombras%20M%C3%A1s%20Oscuras.mp4
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" tvg-group="PELÍCULAS",50 sombras liberadas 2018
+http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20freed.mkv
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg" tvg-group="PELÍCULAS",Cincuenta sombras de Grey (2015)
+http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20of%20grey.mkv
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/520180fdc2d0edef3c7e65ef463b36b8.webp" tvg-group="PELÍCULAS",50 Sombras de Grey
+https://bit.ly/3a8V0C8
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/612ab53823208d1f2f738b3ec63f2ba6.webp" tvg-group="PELÍCULAS",50 Sombras Mas Oscuras
+https://n9.cl/8u5w
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ce06837c5eef0f78bbd08441b8511cd7.webp" tvg-group="PELÍCULAS",50 Sombras Liberadas
+https://n9.cl/90jw
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/itgvn1ABuqeV08i9GWHNyktXXNJ.jpg" tvg-group="PELÍCULAS", Armadas y Peligrosas
+https://archive.org/download/10_20210221/05.mp4
 #EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.quepeliculaver.com/uploads/2022/09/black-adam-poster-nuevo.jpg", Black Adam DVD-screener
 http://regioplay.xyz/701023/black.adam.baja.calidad.php?f=.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/gBBCBMXKzWRADtliUYfV69aVIcz.webp" tvg-group="INFANTIL", Huevitos congelados
@@ -3080,8 +3100,6 @@ http://vod.tuxchannel.mx/peliculas/720/zombieland%20double%20tap%202019.mkv
 http://vod.tuxchannel.mx/peliculas/720/entebbe.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/utfeX5FvjmCjV6Y1UW4w8AudXfY.jpg" tvg-group="PELÍCULAS",12 valientes (2018)
 http://vod.tuxchannel.mx/peliculas/720/12%20strong.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/sM8hwgWZlmZf0h4aOkNopb3HBIo.jpg" tvg-group="PELÍCULAS",50 sombras liberadas (2018)
-http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20freed.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/6/w1280/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg" tvg-group="PELÍCULAS",Action Point (2018)
 http://vod.tuxchannel.mx/peliculas/720/action%20point.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2018/1/w1280/iypJglyCs1vx6MX86a3anh8csSN.jpg" tvg-group="PELÍCULAS",Actos de violencia (2018)
@@ -3310,8 +3328,6 @@ http://archive.org/download/yucatan_202104/yucatan.mp4
 http://vod.tuxchannel.mx/peliculas/720/zombie%20at%2017%202018.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/GmPXcuD8RFoivUaGay7j5cPURl.jpg" tvg-group="PELÍCULAS",24 horas para vivir (2017)
 http://vod.tuxchannel.mx/peliculas/720/24%20hours%20to%20live.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/2/w1280/jvBAQOg2ObZKYXZGxYSz3Fkr7Qt.jpg" tvg-group="PELÍCULAS",50 sombras mas oscuras (2017)
-http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/Cincuenta%20Sombras%20M%C3%A1s%20Oscuras.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/10/w1280/1wj8hLGHAP9goBvvJ45TIK2RjsA.jpg" tvg-group="PELÍCULAS",1922 (2017)
 http://vod.tuxchannel.mx/peliculas/720/1922.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/5/w1280/9XupsXE6vFjR8qvy6WaR46ScrIw.jpg" tvg-group="PELÍCULAS",A 47 metros (2017)
@@ -3702,8 +3718,6 @@ http://vod.tuxchannel.mx/peliculas/720/patriots%20day.mkv
 https://archive.org/download/diario-de-um-exorcista-zero_1/diario-de-um-exorcista-zero_1.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/2/w1280/j6RDEmmkkDwF8hoAWh9xiYybYC7.jpg" tvg-group="PELÍCULAS",Dioses de Egipto (2016)
 http://vod.tuxchannel.mx/peliculas/720/gods%20of%20egypt.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/4/w1280/VPJGWbHC4OR0SP4YDsMNg6kWBJ.jpg" tvg-group="PELÍCULAS",Dios no esta muerta 2 (2016)
-http://vod.tuxchannel.mx/peliculas/720/gods%20not%20dead%202.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/10/w1280/wJEZI3PWyMW7qcW6n9jyCh7Cclf.jpg" tvg-group="PELÍCULAS",Doctor Extraño (2016)
 http://vod.tuxchannel.mx/peliculas/720/doctor%20strange.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/3/w1280/ipdtw7T0aqxfh4SEs4LoJtpNfdj.jpg" tvg-group="PELÍCULAS",El abogado del mal: toda la verdad (2016)
@@ -3890,8 +3904,6 @@ http://vod.tuxchannel.mx/peliculas/720/12%20rounds%203%20lockdown.mkv
 http://vod.tuxchannel.mx/peliculas/720/cinderella.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/3/w1280/h767mOshwwM4VzmcuEu7rTZmgRa.jpg" tvg-group="PELÍCULAS",Chappie (2015)
 http://vod.tuxchannel.mx/peliculas/720/chappie.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg" tvg-group="PELÍCULAS",Cincuenta sombras de Grey (2015)
-http://vod.tuxchannel.mx/peliculas/720/fifty%20shades%20of%20grey.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/11/w1280/13cA8aW3XuQG2CGWLPS3cMO52MQ.jpg" tvg-group="PELÍCULAS",Creed (2015)
 http://vod.tuxchannel.mx/peliculas/720/creed.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/8/w1280/5QlSqu03pABknlQtbJkHiAnzHrS.jpg" tvg-group="PELÍCULAS",Cuarto de guerra (2015)
@@ -4621,8 +4633,6 @@ http://vod.tuxchannel.mx/peliculas/720/unbreakable.mkv
 http://vod.tuxchannel.mx/peliculas/720/the%20fifth%20element.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/4/w1280/2Cl8oOuNiBPJGNYZzbyRR6BDhKd.jpg" tvg-group="PELÍCULAS",El reino prohibido (2008)
 http://vod.tuxchannel.mx/peliculas/720/the%20forbidden%20kingdom.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/8/w1280/ltVbyAXDVXLrfkYCZLzM9GPSoA2.jpg" tvg-group="PELÍCULAS",El remanente (2014)
-https://archive.org/download/the.-remaining.-2014.bluray-latino-e-ingles-subt_202101/The.Remaining.2014.bluray-latino-e-ingles-subt.mp4
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/1980/5/w1280/p9hqo2JWhBytLxskz4FBKcP2e1k.jpg" tvg-group="PELÍCULAS",El resplandor (1980)
 http://vod.tuxchannel.mx/peliculas/720/the%20shining.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2002/4/w1280/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg" tvg-group="PELÍCULAS",El rey escorpión (2002)
@@ -5716,12 +5726,6 @@ http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2281.mp4
 http://bit.ly/3dgy05V
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/c_310_420/pictures/bzp/01/25449.jpg" tvg-group="PELÍCULAS",10 cosas que odio de tí
 https://bit.ly/3muGWKo
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/520180fdc2d0edef3c7e65ef463b36b8.webp" tvg-group="PELÍCULAS",50 Sombras de Grey
-https://bit.ly/3a8V0C8
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/612ab53823208d1f2f738b3ec63f2ba6.webp" tvg-group="PELÍCULAS",50 Sombras Mas Oscuras
-https://n9.cl/8u5w
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ce06837c5eef0f78bbd08441b8511cd7.webp" tvg-group="PELÍCULAS",50 Sombras Liberadas
-https://n9.cl/90jw
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/3ZNKu4TfGgACD1D3kibI5Pgmqe4.webp" tvg-group="PELÍCULAS",A dos metros de ti
 https://bit.ly/2ZaljaF
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/cc2770c1835f6290b21a2f898cfc0589.webp" tvg-group="PELÍCULAS",Abraham Lincoln Cazador de Vampiros
