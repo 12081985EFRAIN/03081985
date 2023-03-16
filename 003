@@ -1,10 +1,6 @@
 #EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
-#EXTINF:-1 tvg-logo="" tvg-group="PELÍCULAS",
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/563fdbfb059b1d4a3a70b4e7a1917a83.webp" tvg-group="INFANTIL", La sirenita
-https://www.googleapis.com/drive/v3/files/1vtbb4uyWK8oPGIiDlb-gJ97_aWvcEsTE?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/66b14c1b4538877f8317d18b1bab65f9.webp" tvg-group="INFANTIL",La sirenita 2
-https://www.googleapis.com/drive/v3/files/1ZbKatexY81ze9Dhkz5-S-3fqsLCoToR0?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/9e25f0f2f20271920ad0ed4d54729df0.webp" tvg-group="PELÍCULAS",Dios No Está Muerto
 https://www.googleapis.com/drive/v3/files/1Zb08nIpbfgm9_ycZL4F1_iW2so0OAc_x?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/4/w1280/VPJGWbHC4OR0SP4YDsMNg6kWBJ.jpg" tvg-group="PELÍCULAS",Dios no esta muerta 2 (2016)
@@ -25,6 +21,10 @@ https://www.googleapis.com/drive/v3/files/1hA6e4rolZ-K4GJa2Xrthz53MEmxjFGBv?alt=
 https://www.googleapis.com/drive/v3/files/1JHFoFne0A-mdjB5UCwv8O59WdleW6hYb?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BtiY5a5bNzY/V02zhVPhMZI/AAAAAAAAAEw/X1_GivYt2CwM8zfVi4r387tdJ7yckawkgCLcB/s1600/Vol6.jpg" tvg-group="INFANTIL",Fábulas Disney VOL6
 https://www.googleapis.com/drive/v3/files/1uaq4QTObCEQmv-WxHEbZP8WoLEfhBDD5?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/563fdbfb059b1d4a3a70b4e7a1917a83.webp" tvg-group="INFANTIL", La sirenita 1989
+https://www.googleapis.com/drive/v3/files/1vtbb4uyWK8oPGIiDlb-gJ97_aWvcEsTE?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/66b14c1b4538877f8317d18b1bab65f9.webp" tvg-group="INFANTIL",La sirenita 2 2000
+https://www.googleapis.com/drive/v3/files/1ZbKatexY81ze9Dhkz5-S-3fqsLCoToR0?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/6aQfiKqi19Orx4fhoICSib58xzx.webp" tvg-group="INFANTIL",El Gato con botas el ultimo deceo
 https://www.googleapis.com/drive/v3/files/1UzlC3N7Ufu1a8RYf1xxfzL8VtgRmnL36?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/jrPKVQGjc3YZXm07OYMriIB47HM.webp" tvg-group="PELÍCULAS",Detective Knight: Independencia
@@ -848,7 +848,7 @@ http://vod.tuxchannel.mx/peliculas4k/the%20revenant.mkv
 http://vod.tuxchannel.mx/peliculas4k/elysium.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/81NyY90J0fL._SY606_.jpg" tvg-group="PELÍCULAS",Escuadrón suicida
 http://vod.tuxchannel.mx/peliculas4k/suicide%20squad.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQxN2I1NjItMDVjMS00ZmJjLWIyYjItOWI2OGY5NTU1ZjI2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjM3OTA@._V1_.jpgE",tvg-group="RALPELÍCULAS"
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/fYtIWhTDgPTcutD24f53Dcc7BAE.webp",tvg-group="PELÍCULAS",Spectral
 http://vod.tuxchannel.mx/peliculas4k/spectral.mkv
 #EXTINF:-1 tvg-logo="https://mx.web.img2.acsta.net/pictures/17/10/17/08/11/3054670.jpg" tvg-group="PELÍCULAS",Fragmentado
 http://vod.tuxchannel.mx/peliculas4k/split.mkv
@@ -1734,7 +1734,7 @@ http://vod.tuxchannel.mx/peliculas/720/zeros%20and%20ones%202021.mkv
 http://vod.tuxchannel.mx/peliculas/720/chernobyl%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/2/w1280/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg" tvg-group="PELÍCULAS",Cherry ( 2021)
 http://vod.tuxchannel.mx/peliculas/720/cherry%202021.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg" tvg-group="PEL ÍCULAS",Chilangolandia (2021)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/gNObb3Q1P2yO2Z14bs6AXx0cWVy.jpg" tvg-group="PELÍCULAS",Chilangolandia (2021)
 http://vod.tuxchannel.mx/peliculas/720/chilangolandia%202021.mkv
 #EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/30/10/52/3410936.jpg" tvg-group="PELÍCULAS",Cielo rojo sangre (2021)
 http://vod.tuxchannel.mx/peliculas/720/blood%20red%20sky%202021.mkv
@@ -5652,74 +5652,6 @@ https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ceb89ce5db9b3de3c1c3906821f165fd.webp"tvg-group="PELÍCULAS",Deadpool
 https://ia800108.us.archive.org/24/items/DeSRREGIO_201802/DeSRREGIO.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! La espada (2021)
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/6370.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo Misterio En La Lucha Libre
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40365.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo: La Leyenda Del Fantasmasaurio
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40366.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! La Leyenda de Scoobydur (latino 2021)
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/97810.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! - Duelo En El Viejo Oeste
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201170.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo Y El Fantasma Gourmet
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201110.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-doo! Y El Intrépido Batman
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200716.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo 3: Comienza el misterio (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2282.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Lego Scooby-Doo! Fiesta en la Playa de Blowout (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3886.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo 2: Desatado (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3988.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3989.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-doo! y el Intrépido Batman (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3990.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby Doo! Y el Fantasma Gourmet (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3992.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! Y el Monstruo de la Luna (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3993.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! Retorno a la Isla Zombie (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/7105.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! Y la maldición del fantasma número 13 (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/23530.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby! (Doble)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/61770.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Feliz Halloween: Scooby Doo (Doble)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/68968.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! La espada y la pala (dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/76798.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Directamente de la nada: ¡Scooby-Doo! Conoce a Courage, el perro cobarde (dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/95161.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y el Fantasma de la Bruja (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99163.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo y los Robots (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99164.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y el Monstruo del Lago Ness (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99165.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo: Piratas a la Vista (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99166.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y el Abominable Hombre de las Nieves (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99167.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y los Hermanos Boo (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99381.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo y la Invasion Extraterrestre (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99493.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo y la Maldicion de Cleopatra (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/106002.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y la Leyenda del Vampiro  (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3987.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo en la Isla de los Zombies (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3986.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Truco o Trato Scooby-Doo! (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Truco o trato Scooby-Doo! (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/148225.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog (Dual)
-http://latinanplad.com:8080/movie/Tete/Tete/148225.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",La Maldición del Monstruo del Lago (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2281.mp4
 
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/20cf9049999c688fa1fc1771463fc9de.webp" tvg-group="PELÍCULAS",47 Ronin: La leyenda del Samurai
 http://bit.ly/3dgy05V
@@ -5973,3 +5905,125 @@ https://bit.ly/2QvfNrG
 https://bit.ly/2J2I3Or
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/650f88e74464e24a4ba654a909fdbbb7.webp" tvg-group="PELÍCULAS",Harry Potter 7 Parte 2
 https://bit.ly/2vIwtF6
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x1
+https://www.googleapis.com/drive/v3/files/1PLTH1tSSqPIRGMB37bAK8boIz3nWtGFf?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x2
+https://www.googleapis.com/drive/v3/files/1MYrngKJ8AjJsBVp9ZcyXMx-7v4KXWw4w?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x3
+https://www.googleapis.com/drive/v3/files/1UM3QW_nFcLnIYjrpp2Ze7GsElAnGif_f?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x4
+https://www.googleapis.com/drive/v3/files/15ZN51NMFM_otuluR6Y13SnrimqjQAi7o?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x5
+https://www.googleapis.com/drive/v3/files/1OszDOb8dU8Pgafq9LoVc5PO15llobYPv?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x6
+https://www.googleapis.com/drive/v3/files/189JxBKOlypPwHigjtm7-Ousk2QOd_3IZ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x7
+https://www.googleapis.com/drive/v3/files/1H0sWOuJJ25YB8Pc8VBol0XOUU9h_vsLV?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x8
+https://www.googleapis.com/drive/v3/files/1kC-rw9gFxH7Kn_TAjjLXoTL-wUBpZYKC?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x9
+https://www.googleapis.com/drive/v3/files/1WiSymBI8LOHahR0GsBlPl3f-ON6yUajI?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x10
+https://www.googleapis.com/drive/v3/files/11adeMpXN0av3yTTYAiZjB3zIUw7z0Uwq?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x11
+https://www.googleapis.com/drive/v3/files/1nj5xYcH6UTBGrERrtL5xwucWE-8jPVEy?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x1
+https://www.googleapis.com/drive/v3/files/1JB66K8jVU9B_dND0xWAMfQlM2BcBLlg2?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x2
+https://www.googleapis.com/drive/v3/files/1VniSKJlOIU2F9KSveDQJG28v_YH8Vzgc?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x3
+https://www.googleapis.com/drive/v3/files/18lngC2iYl1JjzLsD1Mve4kE3PPIMjS5U?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x4
+https://www.googleapis.com/drive/v3/files/1E3sQiF4l6c710YRU8JzuoY2q45XgiEVh?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x5
+https://www.googleapis.com/drive/v3/files/1KkLFGuE4NjAgPPKrIVpEULV6jg32TkQs?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x6
+https://www.googleapis.com/drive/v3/files/1OoyRZlpYqTHyTvRjXVf-Fp06xSL5VFDv?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x7
+https://www.googleapis.com/drive/v3/files/1c4EaJ1oZyhmB-lpTheNkL4vf5kBy9-pg?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x8
+https://www.googleapis.com/drive/v3/files/1ip7s5mymy2IQPkjQUxnhh6GqV3QR5yOE?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x9
+https://www.googleapis.com/drive/v3/files/1Ix8BTLBB2-ilsXw3wlvKDRAsIFNxFx3j?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x10
+https://www.googleapis.com/drive/v3/files/1kKsSWTExSpHp33AnDZ7OJKIdZQtaPy4j?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x1
+https://www.googleapis.com/drive/v3/files/1lnIPNwK5cx682fgAj13VzPJGJKo74y48?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x2
+https://www.googleapis.com/drive/v3/files/1gBkBy7EweCIssBXBxJKtIwcMG77L3pxI?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x3
+https://www.googleapis.com/drive/v3/files/17_8HSQGS3buoTiiVDrS5NsivZcWNa3jY?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x4
+https://www.googleapis.com/drive/v3/files/1_QGwud-S_yvMW1Rmp88DpL09XaWO4c3m?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x5
+https://www.googleapis.com/drive/v3/files/1-C8-MyEP4g-VY-rJIHEiO2355GMHlI_U?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x6
+https://www.googleapis.com/drive/v3/files/1bn0fJZIw5tqQgE-YLn-LsswEOeVgSlGX?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x7
+https://www.googleapis.com/drive/v3/files/1qVjn8-4yZoBCMsmZ64zfjKMW2RyGi0ZQ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x8
+https://www.googleapis.com/drive/v3/files/1HmM7v2Ln555vqMjWkb0CS-rG9lgkQe5r?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x9
+https://www.googleapis.com/drive/v3/files/1VoH71_aFNi5MVWQrQzdHwUuxTbvPoESo?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x10
+https://www.googleapis.com/drive/v3/files/1zybrd3SSCnMsjDx0R83QtRRRiUlROEys?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x1
+https://www.googleapis.com/drive/v3/files/1mLoGh4DebMeF9D05u2MtS7TmEfEKkSnv?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x2
+https://www.googleapis.com/drive/v3/files/1V5KGrCZlGH6FcGHvCpqwLqXLGP5kNNDK?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x3
+https://www.googleapis.com/drive/v3/files/18NVOKP0omtVngk-N1pKrjzswgVBxIPu1?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x4
+https://www.googleapis.com/drive/v3/files/1hJm1ARFcO9yqNEzjYcoUNOyAUMaQ7dZN?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x5
+https://www.googleapis.com/drive/v3/files/1Kvqm6VIH7N7NnAa6JxdHITKoTI1LlVO5?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x6
+https://www.googleapis.com/drive/v3/files/1n9SZiVfRNsp-pphtrbfAYCioevB-9Qjm?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x7
+https://www.googleapis.com/drive/v3/files/1ZPdWo98eWSQPyUS_-qKohHbsse5ZP-Pv?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x8
+https://www.googleapis.com/drive/v3/files/1iZB8q9_wpY-V_lR93-CwcoTISYlXPfrE?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x9
+https://www.googleapis.com/drive/v3/files/1-59ZukfzF06xSg_gki1GRTFSGjM4WhQG?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x10
+https://www.googleapis.com/drive/v3/files/1ywrLP37dZkKsEshL6h-NwjDl9P2vyppO?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x1
+https://www.googleapis.com/drive/v3/files/1SF3f-69Qhfyt12_knL1aUP8R7rdYHh4y?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x2
+https://www.googleapis.com/drive/v3/files/1MDxaA5uMwuWOSX_ojHIrjpz12FiRqmW2?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x3
+https://www.googleapis.com/drive/v3/files/1XncyAgJEZ8ISe2lH92s7LtQMQSyTkY-Z?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x4
+https://www.googleapis.com/drive/v3/files/18CYMWoOwBksvfbQTKojb03Qds0SrWHFx?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x5
+https://www.googleapis.com/drive/v3/files/1x4DKSUdhvvxXZ4aLNxCXSicDmahdwmT4?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x6
+https://www.googleapis.com/drive/v3/files/1YRePLAx9Wcd2cjJ_ZzJB7jgR0oKTwAaO?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x7
+https://www.googleapis.com/drive/v3/files/1qSkiRpKpabOpM49ONYNzwwQQA_ZSyr4i?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x8
+https://www.googleapis.com/drive/v3/files/10RFbVKd4THw84nwY0oW-hoR91jnmVy1s?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x9
+https://www.googleapis.com/drive/v3/files/1wqC1V9oc0KD68DKpBOVNlnHvOqsOJHaQ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x10
+https://www.googleapis.com/drive/v3/files/1AFunjzvEZqj8wszk6GjzZcc0HHQGjRQ5?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x1
+https://www.googleapis.com/drive/v3/files/1AjjP3ojN8PTBUTjpIyyzQqmcF2jBwM1F?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x2
+https://www.googleapis.com/drive/v3/files/1YRU7dfjwTUCqEjmicK9ELwIrUFDCImWh?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x3
+https://www.googleapis.com/drive/v3/files/1_U1hLeL7mE4mdpS82gU7VS3CwRhyDSc5?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x4
+https://www.googleapis.com/drive/v3/files/1Q4pI18fnHGCUo-1_4bcyVGRJXO5EmqbA?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x5
+https://www.googleapis.com/drive/v3/files/1bIpi4O7AlU2V5G6tvrxCxRRmVF_RpJrP?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x6
+https://www.googleapis.com/drive/v3/files/1c8K-s3tAzOuRkT7a-14A4Fsd81bccK0E?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x7
+https://www.googleapis.com/drive/v3/files/1QDFUZ5TV2t7NYG41Aq40zYT2Q2R6eCJV?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x8
+https://www.googleapis.com/drive/v3/files/1Ya2GdOrhHx8F0DiWRcZ8ds9bIigolRwJ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x9
+https://www.googleapis.com/drive/v3/files/1bhQU1oHnfrPkyTBXvSRLVwaGqGlZ4UdS?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
+#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x10
+https://www.googleapis.com/drive/v3/files/1y9c8XVwiM1VBOPGs22ROKtkIBr-36LNZ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
