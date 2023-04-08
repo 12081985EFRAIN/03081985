@@ -1,12 +1,50 @@
 #EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abzt1CufBYyqjz2WEqJtKslweuk.jpg" tvg-group="INFANTIL",Frozen Fever
+https://www.googleapis.com/drive/v3/files/1k_mxBPJdmWL5Ocle_wMGNSfFdaSSIK0A?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7LfHxCtpZGtBIbVL8Xl0UnAv3r.jpg" tvg-group="INFANTIL",Frozen Una aventura de Olaf
+https://www.googleapis.com/drive/v3/files/1f2CQ9A8ZnzcqZ3A-xUqsXfVGwzsN99Vb?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg" tvg-group="INFANTIL",La Bella y la Bestia
+https://www.googleapis.com/drive/v3/files/1j30O1d2mXXMDn7xBafoO_Txw9iyKF9Kc?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zvWlwBGQWuJ0wog65q1uS37BApC.jpg" tvg-group="INFANTIL",Hotel Transilvania 1
+https://www.googleapis.com/drive/v3/files/1T4yJKh5UcXs1D6rTOKOwX14EKVAIK-Lp?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg" tvg-group="INFANTIL",Hotel Transilvania 2
+https://www.googleapis.com/drive/v3/files/1NXniC0ALM_3xdhzBLk66Fz2Vfyq4j2yd?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg" tvg-group="INFANTIL",Hotel Transilvania 3:Monstruos de vacaciones
+https://www.googleapis.com/drive/v3/files/1pbS2IossJZ9Vh-xx1UM_GH0WaIizUh9J?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg" tvg-group="INFANTIL",Hotel Transilvania 4:Transformanía
+https://archive.org/download/01_20220115_20220115_2123/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg" tvg-group="INFANTIL",Hotel Transilvania :Puppy!
+https://www.googleapis.com/drive/v3/files/1Lj2f_ExYu0hFf_M2L662uekxv9G8v10A?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/juoinefK6tMbjwJhRpRvbAAmrTB.jpg" tvg-group="PELÍCULAS",Alerta Extrema
+https://www.googleapis.com/drive/v3/files/1YvecU3Qr4OPYZ89WwvKIfgdSnatSBoSb?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZCzLnF0e70VrvccmJBQZWmM8pW.jpg" tvg-group="PELÍCULAS",Dead Zone
+https://www.googleapis.com/drive/v3/files/1bNBouJP6B5rkjfBcZkcUG6fG4BUVSaPq?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6BZAYG6oooTLv72w9ePKvbpqDlj.jpg" tvg-group="PELÍCULAS",El sistema
+https://www.googleapis.com/drive/v3/files/1eri2veNF7R1W0xiPZ1ckhk5M0C47-M-n?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nIsbRVLcx0ggQzuDq19CUEGJWax.jpg" tvg-group="PELÍCULAS",Khutulun
+https://www.googleapis.com/drive/v3/files/1qa-HVgG1pwb3amMnPFcNnn6FrZzVdMX2?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6AUpD8Wv45rkCKn0XgvpG8shKS2.jpg" tvg-group="PELÍCULAS",La aldea siniestra
+https://www.googleapis.com/drive/v3/files/1Ifjy6wS4DwgZG0dAPGwIyg7rS6Zmlypg?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://cinecalidad.cat/wp-content/uploads/2023/03/8zEopQaHm48Q7mGFbOsBIZ329fm.jpg" tvg-group="PELÍCULAS",La gran tormenta
+https://www.googleapis.com/drive/v3/files/1awZuxdOZCb6iFVBEW0RopxyipPZV5_of?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9plVIrxI2py6oWJS1K4CXZ8dGoS.jpg" tvg-group="PELÍCULAS",Proximity
+https://www.googleapis.com/drive/v3/files/1IOGg7gkLKFFiVDRxB1DGbb1iGS_cTtCs?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ubexnpdkb06bK7TxV8omyroRKrX.jpg" tvg-group="PELÍCULAS",NIX La entidad
+https://www.googleapis.com/drive/v3/files/1VwD8sS6ZtS4wO19IiQ1KVTA5S8tnSWyC?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kXj3FqzQABWsElUuT9y3WhfGPdT.jpg" tvg-group="PELÍCULAS",Notre Dame
+https://www.googleapis.com/drive/v3/files/1mYPkAyrSfMYLIWGDqlv2PWHMP7VumD2G?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvjo3PsVWvMaI1gIBHGWKwQykgr.jpg" tvg-group="PELÍCULAS",La Maldición
+https://www.googleapis.com/drive/v3/files/1CFIHX-KgZGdJwKjKCpNBmrrttl3jh_c-?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2EoH5WWtDYuQLYVLHeJxfvbSRyK.jpg" tvg-group="INFANTIL",Cenicienta2
 https://www.googleapis.com/drive/v3/files/12EyTN8z-bN5yog8x72hDcXL-uCGRwPci?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/5198a970e97b11eaafac7baa91ba4430.webp" tvg-group="INFANTIL",Cenicienta3
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1Nm3SCJVonYliuJgUVmZ49tne5k.jpg" tvg-group="INFANTIL",Cenicienta3
 https://www.googleapis.com/drive/v3/files/1CXr57RWgoQPVoTHBLm879Z0CXV0DJnfP?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xXBX2G5dc2WUZslcWuAXYKvYKoI.jpg" tvg-group="INFANTIL",Dumbo
 https://www.googleapis.com/drive/v3/files/1aqsqxt_pRvfL7EPIkz-hmaoosQ3Y6aLo?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/e8a834a51712b77e17c17b6d3c24bd45.webp" tvg-group="INFANTIL",Pinocho
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xwmk5UVyth0E3oAHmz6v1hmUsss.jpg" tvg-group="INFANTIL",Pinocho
 https://www.googleapis.com/drive/v3/files/17ysdJ9TwBPmN_4flpdbcTzSppyBpmGpq?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
 #EXTINF:-1 tvg-logo="https://cinecalidad.cat/wp-content/webp-express/webp-images/uploads/2022/12/dR19KWdw18Y6ttq0DZGzmgPztUZ.jpg.webp" tvg-group="PELÍCULAS",Una noche oscura
 https://www.googleapis.com/drive/v3/files/1Yazn4d7a2rMplmkGHgbB87X_KOpbahQN?alt=media&key=AIzaSyDT2MhEhySKLzraTAxgRt-DtNTvrdlYRIk
@@ -24,11 +62,11 @@ https://www.googleapis.com/drive/v3/files/1ua-OZq7XuY-ypzg75ISfIaYI45Iqzlqj?alt=
 https://www.googleapis.com/drive/v3/files/1RgIe8muaAfsT_nHssyT4VgRrZNgjNclq?alt=media&key=AIzaSyDT2MhEhySKLzraTAxgRt-DtNTvrdlYRIk
 #EXTINF:-1 tvg-logo="https://cinecalidad.cat/wp-content/webp-express/webp-images/uploads/2023/03/bSZhgnlqfajabEHfXVmwCZIcpSI.jpg.webp" tvg-group="PELÍCULAS",Al filo del Abismo
 https://www.googleapis.com/drive/v3/files/12nd3drBqzWaMtOKYUvrQ-uZ2JNCVOlqU?alt=media&key=AIzaSyDT2MhEhySKLzraTAxgRt-DtNTvrdlYRIk
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/9e25f0f2f20271920ad0ed4d54729df0.webp" tvg-group="PELÍCULAS",Dios No Está Muerto
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qgcoPSP51XWN4i5KuXpkYM1fryn.jpg" tvg-group="PELÍCULAS",Dios No Está Muerto
 https://www.googleapis.com/drive/v3/files/1Zb08nIpbfgm9_ycZL4F1_iW2so0OAc_x?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/4/w1280/VPJGWbHC4OR0SP4YDsMNg6kWBJ.jpg" tvg-group="PELÍCULAS",Dios no esta muerta 2 (2016)
+#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/4/w1280/VPJGWbHC4OR0SP4YDsMNg6kWBJ.jpg" tvg-group="PELÍCULAS",Dios no esta muerto 2 (2016)
 http://vod.tuxchannel.mx/peliculas/720/gods%20not%20dead%202.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/d307298c6ad8bb841658c743096c1504.webp" tvg-group="PELÍCULAS",Dios No Está Muerto 3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7dRJo48oFLQsNs4DtCrR4onp09d.jpg" tvg-group="PELÍCULAS",Dios No Está Muerto 3
 https://www.googleapis.com/drive/v3/files/1WfbzU0PpqvQ-Wn2MWWxrB8TczEM2ruww?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2014/8/w1280/ltVbyAXDVXLrfkYCZLzM9GPSoA2.jpg" tvg-group="PELÍCULAS",El remanente (2014)
 https://archive.org/download/the.-remaining.-2014.bluray-latino-e-ingles-subt_202101/The.Remaining.2014.bluray-latino-e-ingles-subt.mp4
@@ -44,11 +82,11 @@ https://www.googleapis.com/drive/v3/files/1hA6e4rolZ-K4GJa2Xrthz53MEmxjFGBv?alt=
 https://www.googleapis.com/drive/v3/files/1JHFoFne0A-mdjB5UCwv8O59WdleW6hYb?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BtiY5a5bNzY/V02zhVPhMZI/AAAAAAAAAEw/X1_GivYt2CwM8zfVi4r387tdJ7yckawkgCLcB/s1600/Vol6.jpg" tvg-group="INFANTIL",Fábulas Disney VOL6
 https://www.googleapis.com/drive/v3/files/1uaq4QTObCEQmv-WxHEbZP8WoLEfhBDD5?alt=media&key=AIzaSyDsfwMPekxrJDvbOvBI-XIfWribg0fHwd0
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/563fdbfb059b1d4a3a70b4e7a1917a83.webp" tvg-group="INFANTIL", La sirenita 1989
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3hBEYJfPKq1iXXGkeNV0n6baTFF.jpg" tvg-group="INFANTIL", La sirenita 1989
 https://www.googleapis.com/drive/v3/files/1vtbb4uyWK8oPGIiDlb-gJ97_aWvcEsTE?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/66b14c1b4538877f8317d18b1bab65f9.webp" tvg-group="INFANTIL",La sirenita 2 2000
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1m6JsSmBa4X1Kp35YW3QPbMpByF.jpg" tvg-group="INFANTIL",La sirenita 2 2000
 https://www.googleapis.com/drive/v3/files/1ZbKatexY81ze9Dhkz5-S-3fqsLCoToR0?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/6aQfiKqi19Orx4fhoICSib58xzx.webp" tvg-group="INFANTIL",El Gato con botas el ultimo deceo
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lyP4WNmUiiOgl4g2z7ywE0z6SGF.jpg" tvg-group="INFANTIL",El Gato con botas el ultimo deceo
 https://www.googleapis.com/drive/v3/files/1UzlC3N7Ufu1a8RYf1xxfzL8VtgRmnL36?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="https://saucedo.files.wordpress.com/2015/01/freebirds_00.jpg" tvg-group="INFANTIL", Dos Pavos en apuros
 https://www.googleapis.com/drive/v3/files/1PDPq1RLJRQABVg86Tra-4I_TT45ZdnA0?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
@@ -58,19 +96,20 @@ https://www.googleapis.com/drive/v3/files/11Hgs6cCHf46pQR7WC8aWBDpGM6zi2I70?alt=
 https://www.googleapis.com/drive/v3/files/1kUy1GzNkd7a0rQPPMsUncOQa3HeC8DhE?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/jrPKVQGjc3YZXm07OYMriIB47HM.webp" tvg-group="PELÍCULAS",Detective Knight: Independencia
 http://51.81.208.167/pelis2023/Detective.Knight.Independence.2023.lati.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/oKovzRJWz4brwxogYH8vaIoMOeU.webp" tvg-group="PELÍCULAS",House Party:Fiesta en casa
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oKovzRJWz4brwxogYH8vaIoMOeU.jpg" tvg-group="PELÍCULAS",House Party:Fiesta en casa
 http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/zYnp9vNPdJiCU0SIisWdA3VIGNB.webp" tvg-group="PELÍCULAS",JUNG_E
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg" tvg-group="PELÍCULAS",JUNG_E
 http://51.81.208.167/pelis2023/Jung.E.2023.lati.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/3whQLi8RI7h2h2Si2KTDFJxfEcR.webp" tvg-group="INFANTIL",Legión de superhéroes
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8M6bA5t2q5u1nWDTEIXuGDwvboW.jpg" tvg-group="INFANTIL",Legión de superhéroes
 http://51.81.208.167/pelis2023/Legion.of.Super.Heroes.2023.lati.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ew3V5fhAFD1SaKwIvosWOvlz6hi.webp" tvg-group="PELÍCULAS",Teen Wolf: La Película
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ycj1ReH56364LiubRLLS4mY7hJw.jpg" tvg-group="PELÍCULAS",Teen Wolf: La Película
 http://51.81.208.167/pelis2023/Teen.Wolf.The.Movie.2023.lati.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/eOixT71Ok77ZiBu06lO0Z6FysKi.webp" tvg-group="PELÍCULAS",Transfusión
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eOixT71Ok77ZiBu06lO0Z6FysKi.jpg" tvg-group="PELÍCULAS",Transfusión
 http://51.81.208.167/pelis2023/Transfusion.2023.lati.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c0dfDXSu6esHRdE6mx2SzehvaDv.jpg" tvg-group="PELÍCULAS",Ustedes Gente
 http://51.81.208.167/pelis2023/You.People.2023.lati.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/c34f2db16254f844f9fe1132c3dccbed.webp" tvg-group="PELÍCULAS", Absolutamente Todo 2015
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dV1aYFiTEnV9Hjco38bKE4ANRTq.jpg" tvg-group="PELÍCULAS",Absolutamente Todo 2015
 https://www.googleapis.com/drive/v3/files/1-aKwn-X-Ro0lRXVPdXhxHA1CtpWX6zUD?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/cMs3pxK1xjse7fJooGZsWAlrk6Q.jpg" tvg-group="INFANTIL", Lluvia de Hamburguesas
 https://www.googleapis.com/drive/v3/files/1JW0bsIlOuVwMKjZSOtOavlhZS9XyCFej?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
@@ -78,23 +117,26 @@ https://www.googleapis.com/drive/v3/files/1JW0bsIlOuVwMKjZSOtOavlhZS9XyCFej?alt=
 https://archive.org/download/32_20210221_202102/35.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/wLnAUHnQXacLZs1PJnkq0ns0u2y.jpg" tvg-group="INFANTIL", Lluvia de Hamburguesas2-2
 https://ia601800.us.archive.org/25/items/32_20210221_202102/35.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/0c067e13010406936b060cc2454ecc82.webp" tvg-group="INFANTIL",Sing: Ven y Canta 2016
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg" tvg-group="INFANTIL",Sing: Ven y Canta 2016
 https://www.googleapis.com/drive/v3/files/1Bxwlef1IXPum2XW8UAqyheeeLGJw2sEL?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/gR2o0LBWq32oGdIVqeIloO3KDxY.webp" tvg-group="INFANTIL",Sing 2: ¡Ven y canta de nuevo!
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/gR2o0LBWq32oGdIVqeIloO3KDxY.jpg" tvg-group="INFANTIL",Sing 2: ¡Ven y canta de nuevo!
 http://regioplay.xyz/701023/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/gR2o0LBWq32oGdIVqeIloO3KDxY.jpg" tvg-group="INFANTIL", Canto 2: ¡Ven y Canta de Nuevo!
+https://archive.org/download/01_20220112_20220112_1623/01.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/70ba1046584e77be6272c420b4b8f5ad.webp" tvg-group="PELÍCULAS", Interestelar 2014
 https://www.googleapis.com/drive/v3/files/15Wl8eusvPsMRn1JMYLggkBHu1XTFvhCX?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-name="TROLLS 1" tvg-logo="https://pelisimg.online/cover/trolls.jpg" group-title="INFANTIL",TROLLS 2016
 https://ia904708.us.archive.org/11/items/trolls.-2016.1080p-dual-lat/Trolls.2016.1080p-dual-lat.mp4
-#EXTINF:-1 tvg-name="TROLLS 2" tvg-logo="https://static.esplay.io/movie/cover/original/e0725623f844cf9d465bb64fb563b007.webp" group-title="INFANTIL",TROLLS dias de fiesta 2017
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pKBwIG7iNvxbNRv4OQYts0G82cV.jpg" group-title="INFANTIL",TROLLS dias de fiesta 2017
 https://ia904709.us.archive.org/22/items/trolls-dias-de-fiesta-2017/Trolls-%20D%C3%ADas%20de%20Fiesta%20%282017%29.mp4
-#EXTINF:-1 tvg-name="TROLLS 2 Gira mundial" tvg-logo="https://pelisimg.online/cover/trolls-2-world-tour-1586805605.jpg" group-title="INFANTIL", TROLLS gira mundial 2020
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9GdgycCYq3vnxLHw5Ldah8JEjH4.jpg" group-title="INFANTIL", TROLLS gira mundial 2020
 https://ia904703.us.archive.org/10/items/trolls-2-gira-mundial-2020_202301/Trolls%202-%20Gira%20mundial%20%282020%29.mp4
-#EXTINF:-1 tvg-name="TROLLS VACACIONES EN ARMONIA" tvg-logo="https://static.esplay.io/movie/cover/original/z5ge6Cr8lnElNIYU7fn2WoMg7SD.webp" group-title="INFANTIL",TROLLS Festividades en armonía 2021
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5ge6Cr8lnElNIYU7fn2WoMg7SD.jpg" group-title="INFANTIL",TROLLS Festividades en armonía 2021
 https://ia904706.us.archive.org/11/items/trolls-festividades-en-armonia-2021/Trolls-%20Festividades%20en%20armon%C3%ADa%20%282021%29.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/893bc7d43df0eb3abb41354004495c09.webp" tvg-group="INFANTIL", Shaolin Soccer 2001
-https://ia804705.us.archive.org/13/items/sh-40-l-1-ns-0-72p/SH40L1NS0-72p.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8pxDkTTaOHOSWXnjA6X8bR7I3yg.jpg" group-title="INFANTIL",TROLLS 3: Se armó la banda
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppgeawDWa4rehYYRidWCqg4kOli.jpg" tvg-group="INFANTIL",Shaolin Soccer 2001
+https://ia804705.us.archive.org/13/items/sh-40-l-1-ns-0-72p/SH40L1NS0-72p.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/hxYpYPVerNf8h9cO7mSCPK5wJXe.jpg" tvg-group="PELÍCULAS", La nueva cenicienta: Super estrella 2021
 https://archive.org/download/01_20210707_20210707_1435/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/hxYpYPVerNf8h9cO7mSCPK5wJXe.jpg" tvg-group="PELÍCULAS", La nueva cenicienta: Super estrella 2021(2)
@@ -159,8 +201,6 @@ https://onedrive.live.com/download?cid=A4A1F0763FCC8C65&resid=A4A1F0763FCC8C65%2
 https://archive.org/download/01_20211011_20211011_2327/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg" tvg-group="PELÍCULAS", Abejorro
 https://archive.org/download/01_20210707_20210707_1403/01.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/gR2o0LBWq32oGdIVqeIloO3KDxY.jpg" tvg-group="INFANTIL", Canto 2: ¡Ven y Canta de Nuevo!
-https://archive.org/download/01_20220112_20220112_1623/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/a0R1Ybj3m4M4ZeztizD7F6fmPCE.jpg" tvg-group="PELÍCULAS", Caos: El Inicio 2021
 https://archive.org/download/01_20210409_20210409_1623/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg" tvg-group="PELÍCULAS", Capitana Marvel
@@ -175,7 +215,7 @@ https://archive.org/download/01_20211011_20211011_2330/01.mp4
 https://archive.org/download/01_20210307_20210307_1612/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/pwDvkDyaHEU9V7cApQhbcSJMG1w.jpg" tvg-group="PELÍCULAS", Cherry AppleTV 2021
 https://archive.org/download/01_20210409_20210409_1648/01.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/115ad5376b2312b5f4ec944d0e5f117d.webp" tvg-group="INFANTIL", CJ7
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3AShAnuRCjCvSAXQWtcWUJviz37.jpg" tvg-group="INFANTIL", CJ7
 https://www.googleapis.com/drive/v3/files/1G0MHsLzzJiUMfuVIb5TNj8-A0HB3VcSF?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/nIWGp0jQzHvX6H3vEdPwOKwr931.jpg" tvg-group="INFANTIL", Navidad ...Otra vez 2021
 https://archive.org/download/01_20211222_20211222_1123/01.mp4
@@ -317,8 +357,6 @@ https://archive.org/download/01_20211017_20211017_1900/01.mp4
 https://archive.org/download/01_20211031_20211031_2036/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/h7dZpJDORYs5c56dydbrLFkEXpE.jpg" tvg-group="PELÍCULAS", Anfitrión 2020
 https://archive.org/download/01_20211031_20211031_1921/01.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg" tvg-group="INFANTIL", Hotel Transilvania Transformanía
-https://archive.org/download/01_20220115_20220115_2123/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/36iasJftRB0t0LA38d3HEiZSG4m.jpg" tvg-group="PELÍCULAS", Documental En El Mismo Aliento
 https://archive.org/download/01_20211111_20211111_1845/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/mLvjQ0IIdzZfQzQXULI7sIVxd8V.jpg" tvg-group="PELÍCULAS", Infinito 2021
@@ -737,11 +775,11 @@ http://archive.org/download/ghostbusters.-2016.1080p.extended-dual-lat/Cincuenta
 http://vod.tuxchannel.mx/peliculas/720/cincuenta%20shades%20freed.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/2/w1280/mNZcZOIlTwDKd30xLnRR4p0ZELg.jpg" tvg-group="PELÍCULAS",Cincuenta sombras de gris (2015)
 http://vod.tuxchannel.mx/peliculas/720/cincuenta%20shades%20of%20grey.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/520180fdc2d0edef3c7e65ef463b36b8.webp" tvg-group="PELÍCULAS",50 Sombras de Grey
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/520180fdc2d0edef3c7e65ef463b36b8.webp" tvg-group="PELÍCULAS",50 Sombras de Grey 2015
 https://bit.ly/3a8V0C8
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/612ab53823208d1f2f738b3ec63f2ba6.webp" tvg-group="PELÍCULAS",50 Sombras Más Oscuras
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/612ab53823208d1f2f738b3ec63f2ba6.webp" tvg-group="PELÍCULAS",50 Sombras Más Oscuras 2016
 https://n9.cl/8u5w
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ce06837c5eef0f78bbd08441b8511cd7.webp" tvg-group="PELÍCULAS",50 Sombras Liberadas
+#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ce06837c5eef0f78bbd08441b8511cd7.webp" tvg-group="PELÍCULAS",50 Sombras Liberadas 2018
 https://n9.cl/90jw
 #EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.quepeliculaver.com/uploads/2022/09/black-adam-poster-nuevo.jpg", Black Adam DVD-screener
 http://regioplay.xyz/701023/black.adam.baja.calidad.php?f=.mp4
@@ -1368,8 +1406,6 @@ http://vod.tuxchannel.mx/peliculas/720/the%20twin%202022.mkv
 http://vod.tuxchannel.mx/peliculas/720/gold%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/aKD4vOJfywqFtgKL59bFvhldp2e.jpg" tvg-group="PELÍCULAS",Guerra oculta (2022)
 http://vod.tuxchannel.mx/peliculas/720/black%20site%202022.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/2/w1280/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg" tvg-group="INFANTIL",Hotel Transilvania : Transformanía (2022)
-http://vod.tuxchannel.mx/peliculas/720/hotel%20transilvania%204%20transformania%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/7/w1280/TUmSO5EPIZAfRSOEjmbrgbTw8i.jpg" tvg-group="PELÍCULAS",Asiento caliente : En la mira (2022)
 http://vod.tuxchannel.mx/peliculas/720/hot%20seat%202022.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/5/w1280/cpWUtkcgRKeauhTyVMjYHxAutp4.jpg" tvg-group="PELÍCULAS",Interceptor ( 2022)
@@ -3767,7 +3803,7 @@ http://vod.tuxchannel.mx/peliculas/720/the%20jungle%20book%202016.mkv
 http://vod.tuxchannel.mx/peliculas/720/race.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/10/w1280/koXt9UM6AkK0XPMJrnXrGcdJiA0.jpg" tvg-group="PELÍCULAS",El valle de la venganza (2016)
 http://vod.tuxchannel.mx/peliculas/720/in%20a%20valley%20of%20violence.mkv
-#EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/8/w1280/9ymhU7NclJr29MpZnBQbJurYbuc.jpg" tvg-group="PELÍCULAS",Escuadron suicida (2016)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ymhU7NclJr29MpZnBQbJurYbuc.jpg" tvg-group="PELÍCULAS",Escuadron suicida (2016)
 http://vod.tuxchannel.mx/peliculas/720/suicide%20squad.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/4/w1280/qc2zSN8HFd1uwta3uzglyStbl8Y.jpg" tvg-group="PELÍCULAS",Enviados muy especiales (2016)
 http://vod.tuxchannel.mx/peliculas/720/special%20correspondents.mkv
