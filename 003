@@ -1,22 +1,23 @@
 #EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abzt1CufBYyqjz2WEqJtKslweuk.jpg" tvg-group="INFANTIL",Frozen Fever
-https://www.googleapis.com/drive/v3/files/1k_mxBPJdmWL5Ocle_wMGNSfFdaSSIK0A?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7LfHxCtpZGtBIbVL8Xl0UnAv3r.jpg" tvg-group="INFANTIL",Frozen Una aventura de Olaf
-https://www.googleapis.com/drive/v3/files/1f2CQ9A8ZnzcqZ3A-xUqsXfVGwzsN99Vb?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg" tvg-group="INFANTIL",La Bella y la Bestia
-https://www.googleapis.com/drive/v3/files/1j30O1d2mXXMDn7xBafoO_Txw9iyKF9Kc?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zvWlwBGQWuJ0wog65q1uS37BApC.jpg" tvg-group="INFANTIL",Hotel Transilvania 1
-https://www.googleapis.com/drive/v3/files/1T4yJKh5UcXs1D6rTOKOwX14EKVAIK-Lp?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg" tvg-group="INFANTIL",Hotel Transilvania 2
-https://www.googleapis.com/drive/v3/files/1NXniC0ALM_3xdhzBLk66Fz2Vfyq4j2yd?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg" tvg-group="INFANTIL",Hotel Transilvania 3:Monstruos de vacaciones
-https://www.googleapis.com/drive/v3/files/1pbS2IossJZ9Vh-xx1UM_GH0WaIizUh9J?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg" tvg-group="INFANTIL",Hotel Transilvania 4:Transformanía
-https://archive.org/download/01_20220115_20220115_2123/01.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg" tvg-group="INFANTIL",Hotel Transilvania :Puppy!
-https://www.googleapis.com/drive/v3/files/1Lj2f_ExYu0hFf_M2L662uekxv9G8v10A?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3dspgMFx64kA8BqkGZQK6Hk1sCV.jpg" tvg-group="INFANTIL",El maravilloso invierno de Mickey Mouse
+https://www.googleapis.com/drive/v3/files/1z_nJkSxftpl9FytFol_R4stwXDQVm95D?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9sdmCWZlLwFF4GbohSQxlD24g6m.jpg" tvg-group="INFANTIL",El maravilloso verano de Mickey Mouse
+https://www.googleapis.com/drive/v3/files/16ccfFU-RWD18axpRs9WZMUsDb7bG2tMi?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sj3PGomvhxTpBdbnTwenKd8SSUO.jpg" tvg-group="INFANTIL",Bienvenidos al Club
+https://www.googleapis.com/drive/v3/files/1RHJMFMx075AOK0uOiPWWEbQ23c7s9y94?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg" tvg-group="INFANTIL",Las momias y el anillo perdido
+https://www.googleapis.com/drive/v3/files/1oGzX38W3EFmyItFsYI0NwyA8LtGAM011?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsIlpIFNavxMZlE0o71LwvUXOTf.jpg" tvg-group="INFANTIL",La elefanta del Mago
+https://www.googleapis.com/drive/v3/files/1CktF-5rvThJxe3gmohmGDja-jxcBC6ob?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xXFZDgUYuC6EgWn5c8XIQZCHQ9s.jpg" tvg-group="PELÍCULAS",Geminis El planeta Oscuro
+https://www.googleapis.com/drive/v3/files/1yOgTgiBW_sUBhlhJBzKrGWEfhFiYWS4c?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg" tvg-group="PELÍCULAS",Avatar el camino del agua
+https://www.googleapis.com/drive/v3/files/1qH8ZPkoh9RAXSDaHyAQyTXbQntvHMdF9?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/brlCmvkPyg7rivSBeD4U1p5a0pP.jpg" tvg-group="PELÍCULAS",Kung-Fusión
+https://www.googleapis.com/drive/v3/files/1NWtdKPtu4p5ziNBePuCUhYujxWj0cN37?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gbGHezV6yrhua0KfAgwrknSOiIY.jpg" tvg-group="PELÍCULAS",Supercell 
+https://www.googleapis.com/drive/v3/files/1xWC8HyXjZdhi65xkNTnNorkLZPrhNiTs?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/juoinefK6tMbjwJhRpRvbAAmrTB.jpg" tvg-group="PELÍCULAS",Alerta Extrema
 https://www.googleapis.com/drive/v3/files/1YvecU3Qr4OPYZ89WwvKIfgdSnatSBoSb?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jZCzLnF0e70VrvccmJBQZWmM8pW.jpg" tvg-group="PELÍCULAS",Dead Zone
@@ -38,6 +39,22 @@ https://www.googleapis.com/drive/v3/files/1mYPkAyrSfMYLIWGDqlv2PWHMP7VumD2G?alt=
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvjo3PsVWvMaI1gIBHGWKwQykgr.jpg" tvg-group="PELÍCULAS",La Maldición
 https://www.googleapis.com/drive/v3/files/1CFIHX-KgZGdJwKjKCpNBmrrttl3jh_c-?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abzt1CufBYyqjz2WEqJtKslweuk.jpg" tvg-group="INFANTIL",Frozen Fever
+https://www.googleapis.com/drive/v3/files/1k_mxBPJdmWL5Ocle_wMGNSfFdaSSIK0A?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7LfHxCtpZGtBIbVL8Xl0UnAv3r.jpg" tvg-group="INFANTIL",Frozen Una aventura de Olaf
+https://www.googleapis.com/drive/v3/files/1f2CQ9A8ZnzcqZ3A-xUqsXfVGwzsN99Vb?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1FxMtEUc6DP1MXsTBftOFaoCVVO.jpg" tvg-group="INFANTIL",La Bella y la Bestia
+https://www.googleapis.com/drive/v3/files/1j30O1d2mXXMDn7xBafoO_Txw9iyKF9Kc?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zvWlwBGQWuJ0wog65q1uS37BApC.jpg" tvg-group="INFANTIL",Hotel Transilvania 1
+https://www.googleapis.com/drive/v3/files/1T4yJKh5UcXs1D6rTOKOwX14EKVAIK-Lp?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg" tvg-group="INFANTIL",Hotel Transilvania 2
+https://www.googleapis.com/drive/v3/files/1NXniC0ALM_3xdhzBLk66Fz2Vfyq4j2yd?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg" tvg-group="INFANTIL",Hotel Transilvania 3:Monstruos de vacaciones
+https://www.googleapis.com/drive/v3/files/1pbS2IossJZ9Vh-xx1UM_GH0WaIizUh9J?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xNF8AxJc966FWk4SYqXxGHaZLHZ.jpg" tvg-group="INFANTIL",Hotel Transilvania 4:Transformanía
+https://archive.org/download/01_20220115_20220115_2123/01.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sNxIazoQqDQukfQqkYxTgx9DRbu.jpg" tvg-group="INFANTIL",Hotel Transilvania :Puppy!
+https://www.googleapis.com/drive/v3/files/1Lj2f_ExYu0hFf_M2L662uekxv9G8v10A?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2EoH5WWtDYuQLYVLHeJxfvbSRyK.jpg" tvg-group="INFANTIL",Cenicienta2
 https://www.googleapis.com/drive/v3/files/12EyTN8z-bN5yog8x72hDcXL-uCGRwPci?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1Nm3SCJVonYliuJgUVmZ49tne5k.jpg" tvg-group="INFANTIL",Cenicienta3
@@ -133,6 +150,7 @@ https://ia904709.us.archive.org/22/items/trolls-dias-de-fiesta-2017/Trolls-%20D%
 https://ia904703.us.archive.org/10/items/trolls-2-gira-mundial-2020_202301/Trolls%202-%20Gira%20mundial%20%282020%29.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5ge6Cr8lnElNIYU7fn2WoMg7SD.jpg" group-title="INFANTIL",TROLLS Festividades en armonía 2021
 https://ia904706.us.archive.org/11/items/trolls-festividades-en-armonia-2021/Trolls-%20Festividades%20en%20armon%C3%ADa%20%282021%29.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8pxDkTTaOHOSWXnjA6X8bR7I3yg.jpg" group-title="INFANTIL",TROLLS 3: Se armó la banda
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ppgeawDWa4rehYYRidWCqg4kOli.jpg" tvg-group="INFANTIL",Shaolin Soccer 2001
 https://ia804705.us.archive.org/13/items/sh-40-l-1-ns-0-72p/SH40L1NS0-72p.mp4
