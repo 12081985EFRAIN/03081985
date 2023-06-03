@@ -1,33 +1,51 @@
 #EXTM3U list-name="PELÍCULAS" list-image="https://pbs.twimg.com/profile_images/847843736583360512/8d202Ygs_400x400.jpg"
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg" tvg-group="INFANTIL",Blancanieves y los siete enanos
-https://www.googleapis.com/drive/v3/files/18UG4R4S2Q82iAug0IkpqG7dmxS_4kpif?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xCGNrOPwTZnY5mAgRsfrlsU4oLx.jpg" tvg-group="INFANTIL",Aladdín
-https://www.googleapis.com/drive/v3/files/1L4uJMEe9pD6gBzgugQniQjfnBJgYi9NZ?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8hNo4sagsaO6ZnZO52QKX7Ggco6.jpg" tvg-group="INFANTIL",Aladdín y el Rey de los ladrones
-https://www.googleapis.com/drive/v3/files/1Qsu3UuNi1H-S2NsETt4biAg0A4EI_IXy?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j4in9pWwnYeXyf1Z3303nXbzFAS.jpg" tvg-group="INFANTIL",La dama y el vagabundo
-https://www.googleapis.com/drive/v3/files/1jhsecP8pA_CNae8QQSJl6MggR1ZJLN7U?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/o5t3cPvAQAb1gxP6ySqNdDJ0289.jpg" tvg-group="INFANTIL",La Dama y el Vagabundo II:Las aventuras de Scamp
-https://www.googleapis.com/drive/v3/files/1p2yh07lXO3I0u_k9z6IGQMWr-ZiGvkbw?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gK78D6RCCujJyr6B8o1xyZSzk64.jpg" tvg-group="INFANTIL",Río
-https://www.googleapis.com/drive/v3/files/16DwN-_pSWwA7USSOZmhJoxAUfMaSPWYx?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xx1k3kCfIs95eAMa1pglXv74cRp.jpg" tvg-group="INFANTIL",Río 2
-https://www.googleapis.com/drive/v3/files/12ufNFsszrxR2rKjy9UhG7a7HHmd1uLYS?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4O6kh1pUdJBDEtDr2Ev3i9Hn3OG.jpg" tvg-group="INFANTIL",El caldero mágico
-https://www.googleapis.com/drive/v3/files/13RyeJiguAvjkLBzVK-ZF2Xhj0eP8z7w6?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mlhyh9qYd28y5lJJCRRwyLP1pr3.jpg" tvg-group="INFANTIL",Power Rangers: Ayer, hoy y siempre
-https://www.googleapis.com/drive/v3/files/1tK7QnpvNn_VK0Ig_SxJwGgWJMYnQLnsY?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3dspgMFx64kA8BqkGZQK6Hk1sCV.jpg" tvg-group="INFANTIL",El maravilloso invierno de Mickey Mouse
-https://www.googleapis.com/drive/v3/files/1z_nJkSxftpl9FytFol_R4stwXDQVm95D?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9sdmCWZlLwFF4GbohSQxlD24g6m.jpg" tvg-group="INFANTIL",El maravilloso verano de Mickey Mouse
-https://www.googleapis.com/drive/v3/files/16ccfFU-RWD18axpRs9WZMUsDb7bG2tMi?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sj3PGomvhxTpBdbnTwenKd8SSUO.jpg" tvg-group="INFANTIL",Bienvenidos al Club
-https://www.googleapis.com/drive/v3/files/1RHJMFMx075AOK0uOiPWWEbQ23c7s9y94?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg" tvg-group="INFANTIL",Las momias y el anillo perdido
-https://www.googleapis.com/drive/v3/files/1oGzX38W3EFmyItFsYI0NwyA8LtGAM011?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsIlpIFNavxMZlE0o71LwvUXOTf.jpg" tvg-group="INFANTIL",La elefanta del Mago
-https://www.googleapis.com/drive/v3/files/1CktF-5rvThJxe3gmohmGDja-jxcBC6ob?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4n7HJ322ARRWytwxLKEZi0mIrYE.jpg" tvg-group="PELÍCULAS",El exorcista del Papa
+https://www.googleapis.com/drive/v3/files/1a5ZshY25xbL6afcP-X-bCWNLNGF2IHN-?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9ZPyUYOv17BJoA8YkQlgJasLYgf.jpg" tvg-group="PELÍCULAS",Evil Dead: El despertar
+https://www.googleapis.com/drive/v3/files/16hpsXVEuq1YHEvURINfMrgv_fouRZQ2g?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" tvg-group="PELÍCULAS",John Wick 4
+https://www.googleapis.com/drive/v3/files/1_xeOsAChbosRN6FlQ9BFHV64P9FUsriE?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A8BXrFD0FIH2iVbOoTEw7DxnHCb.jpg" tvg-group="PELÍCULAS",La Madre
+https://www.googleapis.com/drive/v3/files/1-n_emCuAgjJxpTSrLTwz2kq_6Y4oBaH3?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/M1hHE3thiqvAsZ8gpBpV0AwWIb.jpg" tvg-group="PELÍCULAS",Luther: Cae la noche
+https://www.googleapis.com/drive/v3/files/1vsSTl_ufP9sstAEc_MnnoEkA75up-4zI?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/brpncE7IUmXFhZ6kELmyChvHKel.jpg" tvg-group="PELÍCULAS",Nada que ver
+https://www.googleapis.com/drive/v3/files/1MzpexaWDfje8RZtt1ehu9G34Bli5KLLu?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2x3iCtOXHydQBnyKueNxRhPUvG3.jpg" tvg-group="PELÍCULAS",Sisu
+https://www.googleapis.com/drive/v3/files/17et972aiZ4wybDPiiRAqEfnos5RIBs27?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ospPR6tDCTpZkU2nFx3uMpXJ0Pg.jpg" tvg-group="PELÍCULAS",Rápidos y Fogosos
+https://www.googleapis.com/drive/v3/files/1nw87TfDQF10np4-j-SkVWR5hw2HL41-G?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2zSBTVpUA2FGvIOJw7GlcnsbSgz.jpg" tvg-group="PELÍCULAS",Daño Colateral
+https://www.googleapis.com/drive/v3/files/1RL1V7bIJzeRgSTNLxDdeQaqLMRj9--sT?alt=media&key=AIzaSyCXHlItSrxo62eJ8BKNYDe1Vzb4yNw8n4Q
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9oBSAKp65I9Xjmk7jZqJ2HmllTj.jpg" tvg-group="PELÍCULAS",George de la Selva
+https://www.googleapis.com/drive/v3/files/1YYqk1tI1yFt2BYWPrNcrw836hsj7tPPu?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/90Shq6yU7vqXskmZbX2AEf57ddy.jpg" tvg-group="INFANTIL",Bambi
+https://www.googleapis.com/drive/v3/files/1gxutEF1Q6-qJW7nAYDQq0dXBqQWNxCk7?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/enl6RjnQEriJqMyGcMb72qgT8Ei.jpg" tvg-group="INFANTIL",Bambi 2
+https://www.googleapis.com/drive/v3/files/1JosUxCuNj4sl8Dlod_2BVjYWhaUrhD1R?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wXBwo2DxTm6wZ8Cbu02t9kzzoK4.jpg" tvg-group="INFANTIL",Buscando a Dory
+https://www.googleapis.com/drive/v3/files/1RfHvlc29ZAS4cmNx2amfM9mSBK06raJQ?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jPhak722pNGxQIXSEfeWIUqBrO5.jpg" tvg-group="INFANTIL",Buscando a Nemo
+https://www.googleapis.com/drive/v3/files/1OButJYaRhZHpCeQQ_X3FJ3eRiOvnbLlb?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1g23DvW6b73XG1aHUH8vHqrdn2Y.jpg" tvg-group="INFANTIL",Peter Pan y Wendy 
+https://www.googleapis.com/drive/v3/files/1Skn7Aj-feSzNHxMF_-umiGVgd3oaGWjD?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i3a5CegMjUdsDUOqkB4KfmbsERQ.jpg" tvg-group="INFANTIL",Super Mario Bros
+https://www.googleapis.com/drive/v3/files/1a5idUc6CoGVg8CjnDKVDQY5Kb-EYGUsX?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6kGf1Nm99GKtyOCrxmNs6thHmdW.jpg" tvg-group="INFANTIL",Tierra de Osos
+https://www.googleapis.com/drive/v3/files/1jVp5z48q0sWBJFMwql6RYj0_5wXrbCLN?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ncXo7f77jTy4bhufXvLgGP9CWv9.jpg" tvg-group="INFANTIL",Tierra de Osos 2
+https://www.googleapis.com/drive/v3/files/1wmGZJ8fM0XW2RAvuH5bKE90SH5-Km2Gx?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wAZ7dMCNWDxylwtz70J1WvEuXFt.jpg" tvg-group="INFANTIL",Balto
+https://www.googleapis.com/drive/v3/files/1u8EDN-52eAcSZnlJ5Xoo6MQ53Rq4mZLu?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7aeSm6RgJySwelL5tdu1TCclZh.jpg" tvg-group="INFANTIL",La Bella Durmiente
+https://www.googleapis.com/drive/v3/files/1lALEDLhANdedcHd3HHiOwu0DmWtQApSb?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o8QGvm0zDrJ8aONM8G5dW4BNawG.jpg" tvg-group="INFANTIL",Pocahontas
+https://www.googleapis.com/drive/v3/files/1OJvy03q3YvAJt_5UdXOSS9IA-To5PBM3?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ttjEx1Wo3QOxsgKDhDCB2GzHdWk.jpg" tvg-group="INFANTIL",Pocahontas 2
+https://www.googleapis.com/drive/v3/files/1YWJtMJj1_v9mhZfEnOZS09b25ZyloJ4t?alt=media&key=AIzaSyCpQl-o8dgwTVnyjEa4fApetSUpnBu-P5U
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xXFZDgUYuC6EgWn5c8XIQZCHQ9s.jpg" tvg-group="PELÍCULAS",Geminis El planeta Oscuro
 https://www.googleapis.com/drive/v3/files/1yOgTgiBW_sUBhlhJBzKrGWEfhFiYWS4c?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg" tvg-group="PELÍCULAS",Avatar el camino del agua
@@ -57,6 +75,34 @@ https://www.googleapis.com/drive/v3/files/1mYPkAyrSfMYLIWGDqlv2PWHMP7VumD2G?alt=
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dvjo3PsVWvMaI1gIBHGWKwQykgr.jpg" tvg-group="PELÍCULAS",La Maldición
 https://www.googleapis.com/drive/v3/files/1CFIHX-KgZGdJwKjKCpNBmrrttl3jh_c-?alt=media&key=AIzaSyAzfSYEKMq0FsNGB1v2RJ47udgCXLUB4mM
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/b2ZPP3bZqDOzqTHr1TlFIFPWP48.jpg" tvg-group="INFANTIL",Blancanieves y los siete enanos
+https://www.googleapis.com/drive/v3/files/18UG4R4S2Q82iAug0IkpqG7dmxS_4kpif?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xCGNrOPwTZnY5mAgRsfrlsU4oLx.jpg" tvg-group="INFANTIL",Aladdín
+https://www.googleapis.com/drive/v3/files/1L4uJMEe9pD6gBzgugQniQjfnBJgYi9NZ?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/8hNo4sagsaO6ZnZO52QKX7Ggco6.jpg" tvg-group="INFANTIL",Aladdín y el Rey de los ladrones
+https://www.googleapis.com/drive/v3/files/1Qsu3UuNi1H-S2NsETt4biAg0A4EI_IXy?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/j4in9pWwnYeXyf1Z3303nXbzFAS.jpg" tvg-group="INFANTIL",La dama y el vagabundo
+https://www.googleapis.com/drive/v3/files/1jhsecP8pA_CNae8QQSJl6MggR1ZJLN7U?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/o5t3cPvAQAb1gxP6ySqNdDJ0289.jpg" tvg-group="INFANTIL",La Dama y el Vagabundo II:Las aventuras de Scamp
+https://www.googleapis.com/drive/v3/files/1p2yh07lXO3I0u_k9z6IGQMWr-ZiGvkbw?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/gK78D6RCCujJyr6B8o1xyZSzk64.jpg" tvg-group="INFANTIL",Río
+https://www.googleapis.com/drive/v3/files/16DwN-_pSWwA7USSOZmhJoxAUfMaSPWYx?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/xx1k3kCfIs95eAMa1pglXv74cRp.jpg" tvg-group="INFANTIL",Río 2
+https://www.googleapis.com/drive/v3/files/12ufNFsszrxR2rKjy9UhG7a7HHmd1uLYS?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/4O6kh1pUdJBDEtDr2Ev3i9Hn3OG.jpg" tvg-group="INFANTIL",El caldero mágico
+https://www.googleapis.com/drive/v3/files/13RyeJiguAvjkLBzVK-ZF2Xhj0eP8z7w6?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/mlhyh9qYd28y5lJJCRRwyLP1pr3.jpg" tvg-group="INFANTIL",Power Rangers: Ayer, hoy y siempre
+https://www.googleapis.com/drive/v3/files/1tK7QnpvNn_VK0Ig_SxJwGgWJMYnQLnsY?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3dspgMFx64kA8BqkGZQK6Hk1sCV.jpg" tvg-group="INFANTIL",El maravilloso invierno de Mickey Mouse
+https://www.googleapis.com/drive/v3/files/1z_nJkSxftpl9FytFol_R4stwXDQVm95D?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9sdmCWZlLwFF4GbohSQxlD24g6m.jpg" tvg-group="INFANTIL",El maravilloso verano de Mickey Mouse
+https://www.googleapis.com/drive/v3/files/16ccfFU-RWD18axpRs9WZMUsDb7bG2tMi?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sj3PGomvhxTpBdbnTwenKd8SSUO.jpg" tvg-group="INFANTIL",Bienvenidos al Club
+https://www.googleapis.com/drive/v3/files/1RHJMFMx075AOK0uOiPWWEbQ23c7s9y94?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g5vkJAPj4XFlaOXZMYE97LZ7lns.jpg" tvg-group="INFANTIL",Las momias y el anillo perdido
+https://www.googleapis.com/drive/v3/files/1oGzX38W3EFmyItFsYI0NwyA8LtGAM011?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsIlpIFNavxMZlE0o71LwvUXOTf.jpg" tvg-group="INFANTIL",La elefanta del Mago
+https://www.googleapis.com/drive/v3/files/1CktF-5rvThJxe3gmohmGDja-jxcBC6ob?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Abzt1CufBYyqjz2WEqJtKslweuk.jpg" tvg-group="INFANTIL",Frozen Fever
 https://www.googleapis.com/drive/v3/files/1k_mxBPJdmWL5Ocle_wMGNSfFdaSSIK0A?alt=media&key=AIzaSyBpjZ0sIDu0zZoIIjybW1b-15-tUm9-jHw
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7LfHxCtpZGtBIbVL8Xl0UnAv3r.jpg" tvg-group="INFANTIL",Frozen Una aventura de Olaf
@@ -155,7 +201,7 @@ https://ia601800.us.archive.org/25/items/32_20210221_202102/35.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5EyWAoHFGKfcIOT7tj0Cwe9Zx57.jpg" tvg-group="INFANTIL",Sing: Ven y Canta 2016
 https://www.googleapis.com/drive/v3/files/1Bxwlef1IXPum2XW8UAqyheeeLGJw2sEL?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/gR2o0LBWq32oGdIVqeIloO3KDxY.jpg" tvg-group="INFANTIL",Sing 2: ¡Ven y canta de nuevo!
-http://regioplay.xyz/701023/Sing.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
+
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/gR2o0LBWq32oGdIVqeIloO3KDxY.jpg" tvg-group="INFANTIL", Canto 2: ¡Ven y Canta de Nuevo!
 https://archive.org/download/01_20220112_20220112_1623/01.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/70ba1046584e77be6272c420b4b8f5ad.webp" tvg-group="PELÍCULAS", Interestelar 2014
@@ -596,8 +642,6 @@ https://archive.org/download/07_20210717_202107/07.mp4
 https://archive.org/download/07_20210717_202107/08.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/hbjOtofNpvFvhzBUUoZGAjkjjsl.jpg" tvg-group="INFANTIL", Raya y el último dragón
 https://archive.org/download/01_20210305_20210305_1546/01.mp4
-#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/hUupIkIKPpNLYniPGRxRpEQFrX3.jpg" tvg-group="INFANTIL", Rojo 2022
-https://archive.org/download/01_20220315_20220315_1546/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/pDc2HxQtC0MlKD4QfRvmKREEyhc.jpg" tvg-group="PELÍCULAS", Amor Redentor 2022
 https://archive.org/download/01_20220503_20220503_1820/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/eKDwVBpVkGRsDjhwhbBtsRWsPi5.jpg" tvg-group="PELÍCULAS", Reminiscencia 2021
@@ -772,7 +816,6 @@ https://archive.org/download/10_20210221/01.mp4
 https://archive.org/download/01_20211124_202111/01.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/itgvn1ABuqeV08i9GWHNyktXXNJ.jpg" tvg-group="PELÍCULAS", Armadas y Peligrosas
 https://archive.org/download/10_20210221/05.mp4
-
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/sDLMU7Hdb8GI4mN3JHtPfIs4wD6.jpg" tvg-group="PELÍCULAS", Grandes esperanzas 2020
 https://video.wixstatic.com/video/e01b5d_e390a767b7184ad997ed779ea1da823a/360p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/w500/gShIscjUsRrrJ0LeKbaNf4vOthR.jpg" tvg-group="PELÍCULAS", Hogar 2020 Netflix
@@ -797,9 +840,9 @@ https://ia804708.us.archive.org/33/items/porkys-tu-cine-clasico-online/Porky%27s
 #EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/cdd9e6a0f68e11eaaf767d5550ed04af.webp", 365 dias
 https://www.googleapis.com/drive/v3/files/1f69NHTR9wp2zinvs-ipDdZ9H5HGzXIyB?alt=media&key=AIzaSyAs83OvJZrgB1-52Hji8NroOASA8pRiOwA
 #EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://iforum-sg.c.hihonor.com/latin/latin_data/images/2022/4/23/d8eb4de1-f6a0-402c-9d67 -d56cd3dbf5d0.jpg", 365 días Aquel día
-http://regioplay.xyz/701023/365.Dias.Aquel.dia.SRREGIO.NET.mkv
+
 #EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/mwcII5bXMeMTKyCejPuBPBTjmxu.webp", 365 dias mas
-http://regioplay.xyz/701023/365.Days.Part.III.2022.lati.mp4
+
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/520180fdc2d0edef3c7e65ef463b36b8.webp"tvg-group="PELÍCULAS",Cincuenta sombras de Grey 2015
 https://ia800305.us.archive.org/2/items/50SombrasDeGrey_201505/50%20Sombras%20De%20Grey.mp4
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/612ab53823208d1f2f738b3ec63f2ba6.webp"tvg-group="PELÍCULAS",Cincuenta Sombras Muy Oscuras 2016
@@ -816,108 +859,7 @@ https://bit.ly/3a8V0C8
 https://n9.cl/8u5w
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/ce06837c5eef0f78bbd08441b8511cd7.webp" tvg-group="PELÍCULAS",50 Sombras Liberadas 2018
 https://n9.cl/90jw
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.quepeliculaver.com/uploads/2022/09/black-adam-poster-nuevo.jpg", Black Adam DVD-screener
-http://regioplay.xyz/701023/black.adam.baja.calidad.php?f=.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/gBBCBMXKzWRADtliUYfV69aVIcz.webp" tvg-group="INFANTIL", Huevitos congelados
-http://regioplay.xyz/701023/Huevitos.congelados.2022.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://static.esplay.io/movie/cover/original/zQe7paVC4tSwb8vBwxSqajJ22Ue.webp", Emancipación
-http://regioplay.xyz/701023/Emancipaci%C3%B3n.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg" tvg-group="INFANTIL", Pinocho 2022
-http://regioplay.xyz/701023/Guillermo.del.Toros.Pinocho.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/q5v13A4zZ0ffXqDQMfxKcNu1xzQ.webp" tvg-group="INFANTIL", SUERTE
-http://regioplay.xyz/701023/Luck.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/5f/73/6c/5f736c33f89d22a0f58c159e8d64172e.jpg" tvg-group="INFANTIL", Las Leyendas: El Origen
-http://regioplay.xyz/701023/Las.leyendas.El.origen.2021.lati.mp4
-#EXTINF:-1 tvg-logo="https://www.quepeliculaver.com/uploads/2022/06/nuevo-poster-dc-liga-de-supermascotas-en-exclusiva.jpg" tvg-group="INFANTIL ", Supermascotas
-http://regioplay.xyz/701023/DC.League.of.Super.Pets.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/minions-the-rise-of-gru/images/regions/ar/onesheet.jpg" tvg-group="INFANTIL", Minions Nace un villano 2022
-http://regioplay.xyz/701023/Minions.NaceUnVillano.SrRegio.Net.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/812ofyhW8hL._AC_SY679_.jpg" tvg-group="INFANTIL", LightYear 2022
-http://regioplay.xyz/701023/lightyear.2022.SRREGIO.mp4
-#EXTINF:-1 tvg-logo="https://www.cinelinx.com/wp-content/uploads/2022/04/Chip-n-Dale-Poster.jpg" tvg-group="INFANTIL", Chip y Dale 2022
-http://regioplay.xyz/701023/Chip.n.Dale.Rescue.Rangers.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_es/screenshot/default/fl0u5uixwaazev7_cphe.jpg" tvg-group="INFANTIL", Sonic 2
-http://regioplay.xyz/701023/Sonic.2.2022.lati.mp4
-#EXTINF:-1 tvg-logo="https://www.mubis.es/media/users/12828/291300/poster-y-trailer-de-clifford-el-gran-perro-rojo-original.jpg" tvg-group="INFANTIL", Clifford El Gran Perro Rojo
-http://regioplay.xyz/701023/Clifford.El.Gran.Perro.Rojo.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-logo="https://www.moviementarios.com/wp-content/uploads/2021/09/EL-DIARIO-DE-GREG-POSTER.jpg" tvg-group="INFANTIL", El diario de Greg
-http://regioplay.xyz/701023/Diary.of.a.wimpy.kid.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/10/13/16/30/5386471.jpg" tvg-group="INFANTIL", Por fin solo en casa
-http://regioplay.xyz/701023/Home.Sweet.Home.Alone.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/10/w1280/gqsO5PpQo6VhtrQwaFYaMaZyTKo.jpg", Atrapados en el Cubo
-http://regioplay.xyz/701023/Cube.2021.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2022/11/UNA-NOCHE-EN-EL-MUSEO-EL-REGRESO -DE-KAHMUNRAH-POSTER_LAS.jpg", Una noche en el museo: El regreso de Kahumunrah | REGIOFLIX
-http://regioplay.xyz/701023/Night.at.the.Museum.Kahmunrah.Rises.Again.2022.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://i.redd.it/qtbvbiq3mjr71.jpg", Hocus Pocus 2
-http://regioplay.xyz/701023/Hocus.Pocus.2.2022.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nope-poster-fotogramas-1626980546.jpeg", NO
-http://regioplay.xyz/701023/Nope.2022.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.ecartelera.com/carteles/15600/15658/001.jpg", Mentada de padre
-http://regioplay.xyz/701023/Mentada.de.padre.2019.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/y_como_es_el.jpg", Y como es el?
-http://regioplay.xyz/701023/Backseat.Driver.2020..lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://pbs.twimg.com/media/FTVLioFXwAA7YwM.jpg", Depredador: Presa
-http://regioplay.xyz/701023/Predator_Prey_SrRegio.Net.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-black-phone/images/regions/ar/onesheet.jpg", Telefono negro
-http://regioplay.xyz/701023/El.Telefono.Negro.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://static.wikia.nocookie.net/jurassicpark/images/2/2d/Jurassic_World_Dominion_Poster.png/revision/latest?cb=20220612202824", Mundo Jurásico Dominio
-http://regioplay.xyz/701023/JurassicWorldDominio.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://d2rbybg5ibx87t.cloudfront.net/images/621398/original.jpeg?1650310006", Padre Stu
-http://regioplay.xyz/701023/Padre.Stu.2022.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/16/09/52/4570178.jpg", Fresco
-http://regioplay.xyz/701023/Fresh.2022.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2NkNjdlODMtZTZiYi00OWUwLTliNDAtOGZhMThjNmVhYmQxXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg", Memoria: Asesino sin memoria
-http://regioplay.xyz/701023/Memory.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/38508-429524-20220118093437.jpg", Que despadre
-http://regioplay.xyz/701023/Qu%C3%A9.despadre.2022.lati.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/12/Uncharted-Poster.jpg?resize=1280 %2C1565&calidad=80&ssl=1", Uncharted 2022
-http://regioplay.xyz/701023/Uncharted.2022.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021
-http://regioplay.xyz/701023/SpiderManNoWayHome2021.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/10 /scream-scream-5-2497975.jpg?itok=1QG1ZnrG", Scream 5 2022
-http://regioplay.xyz/701023/Scream5Grita.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://static.wikia.nocookie.net/marvel/images/9/9a/Eternals_%28film%29_poster_002.png/revision/latest?cb =20210819165934&ruta-prefijo=es", Eternos
-http://regioplay.xyz/701023/Eternals.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.alertageekchile.cl/wp-content/uploads/2021/11/Cazafantasmas-el-Legado-Poster.jpg", Cazafantasmas: El Legado
-http://regioplay.xyz/701023/Ghostbusters.afterlife.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://hiramnoriega.com/wp-content/uploads/2021/12/6567567765765765.jpg", La casa de los abuelos
-http://regioplay.xyz/701023/Toda la verdad.2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.riendoporlavida.com/wp-content/uploads/2019/04/POSTER-FRANCO-635x1024.jpg", Franco Escamilla:Bienvenido al mundo
-http://regioplay.xyz/php/SR_REGIO_526022_/bienvenido.al.mundo.franco.escamilla.php?f=.mp4
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://i0.wp.com/plexmx.info/wp-content/uploads/2021/08/E86dBHyUcAA5JXK.jpg?ssl=1", VENOM carnicería liberado
-http://regioplay.xyz/701023/Venom.let.there.be.carnage.2021.1080p-dual-lat-srregio.net.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/alerta-roja-ftogramas-1634823584.jpg", alerta roja
-http://regioplay.xyz/701023/Red.Notice.2021.1080P-Dual-Lat-Cine-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/04 /poster-shang-chi-leyenda-diez-anillos-2303799.jpg?itok=bA7yKza5", Shang Chi La Leyenda de los 10 anillos
-http://regioplay.xyz/701023/Shang.Chi.And.The.Legend.Of.The.Ten.Rings.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.elseptimoarte.net/carteles/a_un_paso_de_mi_89914.jpg", A un paso de mi
-http://regioplay.xyz/701023/A.un.paso.de.m%C3%AD.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BOThkMDZiNGYtYmY2OC00ODQ3LTg4MzktZTY1YmI3ZjkzYWNhXkEyXkFqcGdeQXVyNjczMzgwMDg@._V1_.jpg", Nadie duerme en el bosque esta noche
-http://regioplay.xyz/701023/Nobody.Sleeps.In.The.Woods.Tonight.2.2021.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://cineuropa.org/Galleries/364/828/poster_big.jpg", Polaroid
-http://regioplay.xyz/701023/Polaroid.2019.1080P.Dual.Lat.SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/29/18/28/3513458.jpg" tvg-group ="INFANTIL", Una momia en Halloween
-http://regioplay.xyz/701023/Una.Momia.En.Halloween.%282021%29.720P.Dual.Lat.srregio.net.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3MDQ2NTE1NF5BMl5BanBnXkFtZTgwMTk5NzE5NzM@._V1_FMjpg_UX1000_.jpg", Isabelle 2018
-http://regioplay.xyz/701023/Isabelle.2018.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2021/01 /halloween-kills-2209579.jpg?itok=bskTW8To", Halloween Kills 2021
-http://regioplay.xyz/701023/Halloween.Kills.2021.1080P.Dual.Lat.Cine-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/fguy1.jpg?resize=770%2C1100&ssl =1", chico libre
-http://regioplay.xyz/701023/Free.guy.2021.1080p-dual-lat-SRREGIO.NET.com.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://i1.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/06/calle-terror.jpg?resize=800 %2C1187&ssl=1", La calle del terror P1
-http://regioplay.xyz/701023/La.Calle.Del.Terror.%28Parte%201%29.1080P-SrRegio.Net.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://i2.wp.com/noescinetodoloquereluce.com/wp-content/uploads/2021/08/dont_breathe_two_ver2.jpg?resize=800%2C1000&ssl =1", No respira 2
-http://regioplay.xyz/701023/No.Respires.2.2021.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_50817.jpg", No estás solo: no estas solo
-http://regioplay.xyz/701023/You%27re.not.alone..2021.1080p-dual-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/fast9/posters/01.jpg", Rápidos y Furiosos 9
-http://regioplay.xyz/701023/R%C3%A1pidos.Y.Furiosos.9.%282021%29.1080P-Dual-Lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="PELÍCULAS" tvg-logo="https://i2.wp.com/cinemedios.com/wp-content/uploads/2021/07/fecha-de-estreno-un-rescate -de-huevitos.jpeg?resize=640%2C831&ssl=1", Un rescate de huevitos
-http://regioplay.xyz/701023/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
-#EXTINF:-1 tvg-group="INFANTIL" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/36404-482709-20210706093527.jpg", Space Jam Una Nueva Era
-http://regioplay.xyz/701023/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
-#EXTINF:-1 tvg-group="INFANTIL" tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg", COCO
-http://regioplay.xyz/701023/coco.mkv
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2015/10/w1280/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg" group-title=“PEPE”,007 Espectro
 http://vod.tuxchannel.mx/peliculas4k/spectre.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/5/w1280/245tgZ3mTHWs0NRiPSwPjKobKHf.jpg" group-title=“PEPE”,Alien Pacto
@@ -3438,8 +3380,7 @@ http://vod.tuxchannel.mx/peliculas/720/alien%20covenant.mkv
 http://vod.tuxchannel.mx/peliculas/720/amar.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/7/w1280/ihROTaicjrYu6buBqn79M6OHvA6.jpg" tvg-group="PELÍCULAS",Amityville: El despertar (2017)
 http://vod.tuxchannel.mx/peliculas/720/amityville%20the%20awakening.mkv
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/12/08/39/434495.jpg" tvg-group="INFANTIL",Angry birds (2017)
-http://cecegeek@goo.gl/3KGMLf
+
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/8/w1280/x0pekWNy7GS37bm30zuxWNLPXj8.jpg" tvg-group="PELÍCULAS",Annabelle 2: La creacion (2017)
 http://vod.tuxchannel.mx/peliculas/720/annabelle%20creation.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/1/w1280/t5ww9iurf6KC3hCwL7nQicEcauA.jpg" tvg-group="PELÍCULAS",Arsenal (2017)
@@ -3758,6 +3699,8 @@ http://vod.tuxchannel.mx/peliculas/720/al%20final%20del%20tunel.mkv
 http://vod.tuxchannel.mx/peliculas/720/allied.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/7/w1280/d2rT32cqn6WQFaSCRPYRdAUAtcl.jpg" tvg-group="PELÍCULAS",Amenaza mortal 2: Blanco humano (2016)
 http://vod.tuxchannel.mx/peliculas/720/hard%20target%202.mkv
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/16/04/12/08/39/434495.jpg" tvg-group="INFANTIL",Angry birds (2017)
+http://cecegeek@goo.gl/3KGMLf
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/5/w1280/ndFOgZXIBdAobly9YO595lUb79E.jpg" tvg-group="INFANTIL",Angry birds: La película (2016)
 http://vod.tuxchannel.mx/peliculas/720/the%20angry%20birds%20movie.mkv
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/11/w1280/bPCo3floRoaxmiImRtfsS4ej3Vd.jpg" tvg-group="PELÍCULAS",Animales nocturnos (2016)
@@ -6002,207 +5945,3 @@ https://bit.ly/2QvfNrG
 https://bit.ly/2J2I3Or
 #EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/650f88e74464e24a4ba654a909fdbbb7.webp" tvg-group="PELÍCULAS",Harry Potter 7 Parte 2
 https://bit.ly/2vIwtF6
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x1
-https://www.googleapis.com/drive/v3/files/1PLTH1tSSqPIRGMB37bAK8boIz3nWtGFf?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x2
-https://www.googleapis.com/drive/v3/files/1MYrngKJ8AjJsBVp9ZcyXMx-7v4KXWw4w?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x3
-https://www.googleapis.com/drive/v3/files/1UM3QW_nFcLnIYjrpp2Ze7GsElAnGif_f?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x4
-https://www.googleapis.com/drive/v3/files/15ZN51NMFM_otuluR6Y13SnrimqjQAi7o?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x5
-https://www.googleapis.com/drive/v3/files/1OszDOb8dU8Pgafq9LoVc5PO15llobYPv?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x6
-https://www.googleapis.com/drive/v3/files/189JxBKOlypPwHigjtm7-Ousk2QOd_3IZ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x7
-https://www.googleapis.com/drive/v3/files/1H0sWOuJJ25YB8Pc8VBol0XOUU9h_vsLV?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x8
-https://www.googleapis.com/drive/v3/files/1kC-rw9gFxH7Kn_TAjjLXoTL-wUBpZYKC?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x9
-https://www.googleapis.com/drive/v3/files/1WiSymBI8LOHahR0GsBlPl3f-ON6yUajI?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x10
-https://www.googleapis.com/drive/v3/files/11adeMpXN0av3yTTYAiZjB3zIUw7z0Uwq?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",1x11
-https://www.googleapis.com/drive/v3/files/1nj5xYcH6UTBGrERrtL5xwucWE-8jPVEy?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x1
-https://www.googleapis.com/drive/v3/files/1JB66K8jVU9B_dND0xWAMfQlM2BcBLlg2?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x2
-https://www.googleapis.com/drive/v3/files/1VniSKJlOIU2F9KSveDQJG28v_YH8Vzgc?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x3
-https://www.googleapis.com/drive/v3/files/18lngC2iYl1JjzLsD1Mve4kE3PPIMjS5U?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x4
-https://www.googleapis.com/drive/v3/files/1E3sQiF4l6c710YRU8JzuoY2q45XgiEVh?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x5
-https://www.googleapis.com/drive/v3/files/1KkLFGuE4NjAgPPKrIVpEULV6jg32TkQs?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x6
-https://www.googleapis.com/drive/v3/files/1OoyRZlpYqTHyTvRjXVf-Fp06xSL5VFDv?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x7
-https://www.googleapis.com/drive/v3/files/1c4EaJ1oZyhmB-lpTheNkL4vf5kBy9-pg?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x8
-https://www.googleapis.com/drive/v3/files/1ip7s5mymy2IQPkjQUxnhh6GqV3QR5yOE?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x9
-https://www.googleapis.com/drive/v3/files/1Ix8BTLBB2-ilsXw3wlvKDRAsIFNxFx3j?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",2x10
-https://www.googleapis.com/drive/v3/files/1kKsSWTExSpHp33AnDZ7OJKIdZQtaPy4j?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x1
-https://www.googleapis.com/drive/v3/files/1lnIPNwK5cx682fgAj13VzPJGJKo74y48?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x2
-https://www.googleapis.com/drive/v3/files/1gBkBy7EweCIssBXBxJKtIwcMG77L3pxI?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x3
-https://www.googleapis.com/drive/v3/files/17_8HSQGS3buoTiiVDrS5NsivZcWNa3jY?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x4
-https://www.googleapis.com/drive/v3/files/1_QGwud-S_yvMW1Rmp88DpL09XaWO4c3m?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x5
-https://www.googleapis.com/drive/v3/files/1-C8-MyEP4g-VY-rJIHEiO2355GMHlI_U?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x6
-https://www.googleapis.com/drive/v3/files/1bn0fJZIw5tqQgE-YLn-LsswEOeVgSlGX?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x7
-https://www.googleapis.com/drive/v3/files/1qVjn8-4yZoBCMsmZ64zfjKMW2RyGi0ZQ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x8
-https://www.googleapis.com/drive/v3/files/1HmM7v2Ln555vqMjWkb0CS-rG9lgkQe5r?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x9
-https://www.googleapis.com/drive/v3/files/1VoH71_aFNi5MVWQrQzdHwUuxTbvPoESo?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",3x10
-https://www.googleapis.com/drive/v3/files/1zybrd3SSCnMsjDx0R83QtRRRiUlROEys?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x1
-https://www.googleapis.com/drive/v3/files/1mLoGh4DebMeF9D05u2MtS7TmEfEKkSnv?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x2
-https://www.googleapis.com/drive/v3/files/1V5KGrCZlGH6FcGHvCpqwLqXLGP5kNNDK?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x3
-https://www.googleapis.com/drive/v3/files/18NVOKP0omtVngk-N1pKrjzswgVBxIPu1?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x4
-https://www.googleapis.com/drive/v3/files/1hJm1ARFcO9yqNEzjYcoUNOyAUMaQ7dZN?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x5
-https://www.googleapis.com/drive/v3/files/1Kvqm6VIH7N7NnAa6JxdHITKoTI1LlVO5?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x6
-https://www.googleapis.com/drive/v3/files/1n9SZiVfRNsp-pphtrbfAYCioevB-9Qjm?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x7
-https://www.googleapis.com/drive/v3/files/1ZPdWo98eWSQPyUS_-qKohHbsse5ZP-Pv?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x8
-https://www.googleapis.com/drive/v3/files/1iZB8q9_wpY-V_lR93-CwcoTISYlXPfrE?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x9
-https://www.googleapis.com/drive/v3/files/1-59ZukfzF06xSg_gki1GRTFSGjM4WhQG?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",4x10
-https://www.googleapis.com/drive/v3/files/1ywrLP37dZkKsEshL6h-NwjDl9P2vyppO?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x1
-https://www.googleapis.com/drive/v3/files/1SF3f-69Qhfyt12_knL1aUP8R7rdYHh4y?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x2
-https://www.googleapis.com/drive/v3/files/1MDxaA5uMwuWOSX_ojHIrjpz12FiRqmW2?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x3
-https://www.googleapis.com/drive/v3/files/1XncyAgJEZ8ISe2lH92s7LtQMQSyTkY-Z?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x4
-https://www.googleapis.com/drive/v3/files/18CYMWoOwBksvfbQTKojb03Qds0SrWHFx?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x5
-https://www.googleapis.com/drive/v3/files/1x4DKSUdhvvxXZ4aLNxCXSicDmahdwmT4?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x6
-https://www.googleapis.com/drive/v3/files/1YRePLAx9Wcd2cjJ_ZzJB7jgR0oKTwAaO?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x7
-https://www.googleapis.com/drive/v3/files/1qSkiRpKpabOpM49ONYNzwwQQA_ZSyr4i?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x8
-https://www.googleapis.com/drive/v3/files/10RFbVKd4THw84nwY0oW-hoR91jnmVy1s?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x9
-https://www.googleapis.com/drive/v3/files/1wqC1V9oc0KD68DKpBOVNlnHvOqsOJHaQ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",5x10
-https://www.googleapis.com/drive/v3/files/1AFunjzvEZqj8wszk6GjzZcc0HHQGjRQ5?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x1
-https://www.googleapis.com/drive/v3/files/1AjjP3ojN8PTBUTjpIyyzQqmcF2jBwM1F?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x2
-https://www.googleapis.com/drive/v3/files/1YRU7dfjwTUCqEjmicK9ELwIrUFDCImWh?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x3
-https://www.googleapis.com/drive/v3/files/1_U1hLeL7mE4mdpS82gU7VS3CwRhyDSc5?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x4
-https://www.googleapis.com/drive/v3/files/1Q4pI18fnHGCUo-1_4bcyVGRJXO5EmqbA?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x5
-https://www.googleapis.com/drive/v3/files/1bIpi4O7AlU2V5G6tvrxCxRRmVF_RpJrP?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x6
-https://www.googleapis.com/drive/v3/files/1c8K-s3tAzOuRkT7a-14A4Fsd81bccK0E?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x7
-https://www.googleapis.com/drive/v3/files/1QDFUZ5TV2t7NYG41Aq40zYT2Q2R6eCJV?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x8
-https://www.googleapis.com/drive/v3/files/1Ya2GdOrhHx8F0DiWRcZ8ds9bIigolRwJ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x9
-https://www.googleapis.com/drive/v3/files/1bhQU1oHnfrPkyTBXvSRLVwaGqGlZ4UdS?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-#EXTINF:-1 tvg-logo="https://static.esplay.io/tvshow/cover/original/5Yiep9EwcQgLolg013ETBVqHxuD.webp" tvg-group="Rick y Morti",6x10
-https://www.googleapis.com/drive/v3/files/1y9c8XVwiM1VBOPGs22ROKtkIBr-36LNZ?alt=media&key=AIzaSyB7aFgFdCihhQsQQ0IT5YBE2dVBOR9jKeI
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! La espada (2021)
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/6370.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo Misterio En La Lucha Libre
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40365.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo: La Leyenda Del Fantasmasaurio
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/40366.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! La Leyenda de Scoobydur (latino 2021)
-http://allstar.is-by.us:25461/movie/CELIAPLAN/DS23Xum3dh/97810.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! - Duelo En El Viejo Oeste
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201170.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo Y El Fantasma Gourmet
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/201110.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-doo! Y El Intrépido Batman
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/200716.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo 3: Comienza el misterio (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2282.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Lego Scooby-Doo! Fiesta en la Playa de Blowout (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3886.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo 2: Desatado (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3988.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3989.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-doo! y el Intrépido Batman (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3990.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby Doo! Y el Fantasma Gourmet (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3992.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! Y el Monstruo de la Luna (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3993.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! Retorno a la Isla Zombie (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/7105.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! Y la maldición del fantasma número 13 (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/23530.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby! (Doble)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/61770.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Feliz Halloween: Scooby Doo (Doble)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/68968.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Scooby-Doo! La espada y la pala (dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/76798.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Directamente de la nada: ¡Scooby-Doo! Conoce a Courage, el perro cobarde (dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/95161.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y el Fantasma de la Bruja (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99163.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo y los Robots (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99164.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y el Monstruo del Lago Ness (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99165.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo: Piratas a la Vista (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99166.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y el Abominable Hombre de las Nieves (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99167.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y los Hermanos Boo (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99381.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo y la Invasion Extraterrestre (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/99493.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby Doo y la Maldicion de Cleopatra (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/106002.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo y la Leyenda del Vampiro  (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3987.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Scooby-Doo en la Isla de los Zombies (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/3986.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Truco o Trato Scooby-Doo! (Dual)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/145849.mkv
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",¡Truco o trato Scooby-Doo! (2022)
-http://latinanplad.com:8080/movie/Rodriguez26/Rodriguez26/148225.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog (Dual)
-http://latinanplad.com:8080/movie/Tete/Tete/148225.mp4
-#EXTINF:-1 tvg-logo="https://static.esplay.io/movie/cover/original/1da94ff0ceb111eaab9e91bb3c20c856.webp" tvg-group="Scooby",La Maldición del Monstruo del Lago (Lat)
-http://kp-thebestiptv.com:8080/movie/Galindo21/5anJqAHmvb/2281.mp4
